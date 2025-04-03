@@ -1817,31 +1817,6 @@
     
     
     <entry>
-      <title>Leetcode Walkthrough (Portal 🚪)</title>
-      <link href="/notes/LeetCode/index/"/>
-      <url>/notes/LeetCode/index/</url>
-      
-        <content type="html"><![CDATA[<blockquote><p>This is a portal for my walkthroughs of Leetcode Questions</p></blockquote><h2 id="SQL-50"><a href="#SQL-50" class="headerlink" title="SQL 50"></a><a href="../sql50/">SQL 50</a></h2><p><a href="https://leetcode.com/studyplan/top-sql-50/">Question List on Leetcode</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> LeetCode </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> SQL </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Leetcode SQL 50 (Portal 🚪)</title>
       <link href="/notes/LeetCode/sql50/"/>
       <url>/notes/LeetCode/sql50/</url>
