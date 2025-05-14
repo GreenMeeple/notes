@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>Automata, Games, and Verification (Portal)</title>
+      <link href="/notes/AGV/agv/"/>
+      <url>/notes/AGV/agv/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>This is a learning note of a course in <a href="https://cispa.de/de">CISPA</a>, UdS. Taught by Bernd Finkbeiner</p></blockquote><h2 id="Chapter-1-Introduction"><a href="#Chapter-1-Introduction" class="headerlink" title="Chapter 1. Introduction"></a>Chapter 1. Introduction</h2><table><thead><tr><th align="left">Sections</th><th align="left">Exercise</th></tr></thead><tbody><tr><td align="left"><a href="../../AGV/agv1-1/">1.1. Model Checking</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv1-2/">1.2. Synthesis</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv1-3/">1.3. The Logic-Automata Connection</a></td><td align="left"></td></tr></tbody></table><h2 id="Chapter-2-Buchi-Automata"><a href="#Chapter-2-Buchi-Automata" class="headerlink" title="Chapter 2. Büchi Automata"></a>Chapter 2. Büchi Automata</h2><table><thead><tr><th align="left">Sections</th><th align="left">Exercise</th></tr></thead><tbody><tr><td align="left"><a href="../agv2-1/">2.1. Preliminaries</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv2-2/">2.2. Automata over Infinite Words</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv2-3/">2.3. The Büchi Acceptance Condition</a></td><td align="left"></td></tr></tbody></table><h2 id="Chapter-3-Buchi’s-Characterization-Theorem"><a href="#Chapter-3-Buchi’s-Characterization-Theorem" class="headerlink" title="Chapter 3. Büchi’s Characterization Theorem"></a>Chapter 3. Büchi’s Characterization Theorem</h2><table><thead><tr><th align="left">Sections</th><th align="left">Exercise</th></tr></thead><tbody><tr><td align="left"><a href="../agv3-1/">3.1. Kleene’s Theorem</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv3-2/">3.2. $\omega$-regular language</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv3-3/">3.3 Closure Properties of the Büchi-recognizable languages (Intersection and Union)</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv3-4/">3.4 Closure Properties of the Büchi-recognizable languages (Concatenations)</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv3-5/">3.5 Büchi’s Characterization Theorem</a></td><td align="left"></td></tr></tbody></table><h2 id="Chapter-4-Deterministic-Buchi-Automata"><a href="#Chapter-4-Deterministic-Buchi-Automata" class="headerlink" title="Chapter 4. Deterministic Büchi Automata"></a>Chapter 4. Deterministic Büchi Automata</h2><table><thead><tr><th align="left">Sections</th><th align="left">Exercise</th></tr></thead><tbody><tr><td align="left"><a href="../agv4-1/">4.1. Deterministic vs. Nondeterministic Büchi Automata</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv4-2/">4.2. Complementation of deterministic Büchi Automata</a></td><td align="left"></td></tr></tbody></table><h2 id="Chapter-5-Complementation-of-Buchi-automata"><a href="#Chapter-5-Complementation-of-Buchi-automata" class="headerlink" title="Chapter 5. Complementation of Büchi automata"></a>Chapter 5. Complementation of Büchi automata</h2><table><thead><tr><th align="left">Sections</th><th align="left">Exercise</th></tr></thead><tbody><tr><td align="left"><a href="../agv5-1/">5.1. Infinite Directed Acyclic Graph (DAG)</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv5-2/">5.2. Ranking of DAG</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv5-3/">5.3. Complement Büchi Automaton with Odd Ranking</a></td><td align="left"></td></tr></tbody></table><h2 id="Chapter-6-Logics-over-Infinite-Sequences"><a href="#Chapter-6-Logics-over-Infinite-Sequences" class="headerlink" title="Chapter 6. Logics over Infinite Sequences"></a>Chapter 6. Logics over Infinite Sequences</h2><table><thead><tr><th align="left">Sections</th><th align="left">Exercise</th></tr></thead><tbody><tr><td align="left"><a href="../agv6-1/">6.1. Linear-Time Temporal Logic (LTL)</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv6-2/">6.2. Expressing Program Properties using LTL</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv6-3/">6.3. LTL and Counting Languages</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv6-4/">6.4. Quantified Propositional Temporal Logic (QPTL)</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv6-5/">6.5. Monadic Second-Order Logic of One Successor (S1S)</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv6-6/">6.6. Express QPTL using S1S</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv6-7/">6.7. S1S$_0$ and Büchi-recognizable LanguageBüchi-recognizable</a></td><td align="left"></td></tr></tbody></table><h2 id="Chapter-7-Alternating-Buchi-Automata"><a href="#Chapter-7-Alternating-Buchi-Automata" class="headerlink" title="Chapter 7. Alternating Büchi Automata"></a>Chapter 7. Alternating Büchi Automata</h2><table><thead><tr><th align="left">Sections</th><th align="left">Exercise</th></tr></thead><tbody><tr><td align="left"><a href="../agv7-1/">7.1. Alternating Büchi Automata</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv7-2/">7.2. From LTL to Alternating Büchi Automata</a></td><td align="left"><a href="../agv7-2/">$\varphi&#x3D;(\Diamond p)\ \mathcal{U}\ (\square q)$</a></td></tr><tr><td align="left"><a href="../agv7-3/">7.3. Translating Alternating to Nondeterministic automata</a></td><td align="left"></td></tr></tbody></table><h2 id="Chapter-8-Linear-Arithmetic"><a href="#Chapter-8-Linear-Arithmetic" class="headerlink" title="Chapter 8. Linear Arithmetic"></a>Chapter 8. Linear Arithmetic</h2><table><thead><tr><th align="left">Sections</th><th align="left">Exercise</th></tr></thead><tbody><tr><td align="left"><a href="../agv8-1/">8.1. Linear Arithmetic (Theory)</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv8-2/">8.2 Encoding real numbers</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv8-3/">8.3 Translation from Linear Arithmetic to Automata</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv8-4/">8.4 Homogenous Inequality Testing is Automatic</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv8-5/">8.5 From Linear Arithmetic to Automata</a></td><td align="left"></td></tr></tbody></table><h2 id="Chapter-9-LTL-Model-Checking"><a href="#Chapter-9-LTL-Model-Checking" class="headerlink" title="Chapter 9. LTL Model Checking"></a>Chapter 9. LTL Model Checking</h2><table><thead><tr><th align="left">Sections</th><th align="left">Exercise</th></tr></thead><tbody><tr><td align="left"><a href="../agv9-1/">9.1 Automata-based LTL Model Checking with Sequential Circuits</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv9-2/">9.2 Nested depth-first search</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv9-3/">9.3 The Emerson-Lei algorithm</a></td><td align="left"></td></tr></tbody></table><h2 id="Chapter-10-McNaughton’s-Theorem"><a href="#Chapter-10-McNaughton’s-Theorem" class="headerlink" title="Chapter 10. McNaughton’s Theorem"></a>Chapter 10. McNaughton’s Theorem</h2><table><thead><tr><th align="left">Sections</th><th align="left">Exercise</th></tr></thead><tbody><tr><td align="left"><a href="../agv10-1/">10.1 The Muller Acceptance Condition</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv10-2/">10.2 From Büchi automata to Muller automata</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv10-3/">10.3 Closure Properties of Muller Automata under Boolean Operations</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv10-4/">10.4 Semi-Deterministic Büchi Automata</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv10-5/">10.5 From semi-deterministic Büchi to deterministic Muller</a></td><td align="left"></td></tr></tbody></table><h2 id="Chapter-11-Infinite-Games"><a href="#Chapter-11-Infinite-Games" class="headerlink" title="Chapter 11. Infinite Games"></a>Chapter 11. Infinite Games</h2><table><thead><tr><th align="left">Sections</th><th align="left">Exercise</th></tr></thead><tbody><tr><td align="left"><a href="../agv11-1/">11.1 Infinite Games (Basic Definitions)</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv11-2/">11.2 Reachability Games</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv11-3/">11.3 Büchi Games</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv11-4/">11.4 Parity Games</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv11-5/">11.5 Muller Games</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv11-6/">11.6 A Remark on Undetermined Games</a></td><td align="left"></td></tr></tbody></table><h2 id="Chapter-12-Rabin’s-Theorem"><a href="#Chapter-12-Rabin’s-Theorem" class="headerlink" title="Chapter 12. Rabin’s Theorem"></a>Chapter 12. Rabin’s Theorem</h2><table><thead><tr><th align="left">Sections</th><th align="left">Exercise</th></tr></thead><tbody><tr><td align="left"><a href="../agv12-1/">12.1 Tree Automata and Acceptance Game</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv12-2/">12.2 Emptiness Game</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv12-3/">12.3 Complementation of Parity Tree Automata</a></td><td align="left"></td></tr></tbody></table><h2 id="Chapter-13-Application-CTL-Model-Checking"><a href="#Chapter-13-Application-CTL-Model-Checking" class="headerlink" title="Chapter 13. Application: CTL Model Checking"></a>Chapter 13. Application: CTL Model Checking</h2><hr><p>Next chapter: <a href="../agv/"></a></p><p>Further Reading: <a href=""></a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> UdS Notes </category>
+          
+          <category> AGV </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AGV </tag>
+            
+            <tag> UdS </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>AGV 12.3 -- Complementation of Parity Tree Automata</title>
       <link href="/notes/AGV/agv12-3/"/>
       <url>/notes/AGV/agv12-3/</url>
@@ -13,9 +42,9 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -23,6 +52,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -40,9 +71,9 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -50,6 +81,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -67,9 +100,9 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -77,6 +110,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -94,9 +129,9 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -104,6 +139,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -121,9 +158,9 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -131,6 +168,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -148,9 +187,9 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -158,6 +197,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -175,9 +216,9 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -185,6 +226,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -202,9 +245,9 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -212,6 +255,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -229,9 +274,9 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -239,6 +284,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -256,9 +303,9 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -266,6 +313,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -283,36 +332,9 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> AGV </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Automata, Games, and Verification (Portal)</title>
-      <link href="/notes/AGV/agv/"/>
-      <url>/notes/AGV/agv/</url>
-      
-        <content type="html"><![CDATA[<blockquote><p>This is a learning note of a course in <a href="https://cispa.de/de">CISPA</a>, UdS. Taught by Bernd Finkbeiner</p></blockquote><h2 id="Chapter-1-Introduction"><a href="#Chapter-1-Introduction" class="headerlink" title="Chapter 1. Introduction"></a>Chapter 1. Introduction</h2><table><thead><tr><th align="left">Sections</th><th align="left">Exercise</th></tr></thead><tbody><tr><td align="left"><a href="../agv1-1/">1.1. Model Checking</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv1-2/">1.2. Synthesis</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv1-3/">1.3. The Logic-Automata Connection</a></td><td align="left"></td></tr></tbody></table><h2 id="Chapter-2-Buchi-Automata"><a href="#Chapter-2-Buchi-Automata" class="headerlink" title="Chapter 2. Büchi Automata"></a>Chapter 2. Büchi Automata</h2><table><thead><tr><th align="left">Sections</th><th align="left">Exercise</th></tr></thead><tbody><tr><td align="left"><a href="../agv2-1/">2.1. Preliminaries</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv2-2/">2.2. Automata over Infinite Words</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv2-3/">2.3. The Büchi Acceptance Condition</a></td><td align="left"></td></tr></tbody></table><h2 id="Chapter-3-Buchi’s-Characterization-Theorem"><a href="#Chapter-3-Buchi’s-Characterization-Theorem" class="headerlink" title="Chapter 3. Büchi’s Characterization Theorem"></a>Chapter 3. Büchi’s Characterization Theorem</h2><table><thead><tr><th align="left">Sections</th><th align="left">Exercise</th></tr></thead><tbody><tr><td align="left"><a href="../agv3-1/">3.1. Kleene’s Theorem</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv3-2/">3.2. $\omega$-regular language</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv3-3/">3.3 Closure Properties of the Büchi-recognizable languages (Intersection and Union)</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv3-4/">3.4 Closure Properties of the Büchi-recognizable languages (Concatenations)</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv3-5/">3.5 Büchi’s Characterization Theorem</a></td><td align="left"></td></tr></tbody></table><h2 id="Chapter-4-Deterministic-Buchi-Automata"><a href="#Chapter-4-Deterministic-Buchi-Automata" class="headerlink" title="Chapter 4. Deterministic Büchi Automata"></a>Chapter 4. Deterministic Büchi Automata</h2><table><thead><tr><th align="left">Sections</th><th align="left">Exercise</th></tr></thead><tbody><tr><td align="left"><a href="../agv4-1/">4.1. Deterministic vs. Nondeterministic Büchi Automata</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv4-2/">4.2. Complementation of deterministic Büchi Automata</a></td><td align="left"></td></tr></tbody></table><h2 id="Chapter-5-Complementation-of-Buchi-automata"><a href="#Chapter-5-Complementation-of-Buchi-automata" class="headerlink" title="Chapter 5. Complementation of Büchi automata"></a>Chapter 5. Complementation of Büchi automata</h2><table><thead><tr><th align="left">Sections</th><th align="left">Exercise</th></tr></thead><tbody><tr><td align="left"><a href="../agv5-1/">5.1. Infinite Directed Acyclic Graph (DAG)</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv5-2/">5.2. Ranking of DAG</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv5-3/">5.3. Complement Büchi Automaton with Odd Ranking</a></td><td align="left"></td></tr></tbody></table><h2 id="Chapter-6-Logics-over-Infinite-Sequences"><a href="#Chapter-6-Logics-over-Infinite-Sequences" class="headerlink" title="Chapter 6. Logics over Infinite Sequences"></a>Chapter 6. Logics over Infinite Sequences</h2><table><thead><tr><th align="left">Sections</th><th align="left">Exercise</th></tr></thead><tbody><tr><td align="left"><a href="../agv6-1/">6.1. Linear-Time Temporal Logic (LTL)</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv6-2/">6.2. Expressing Program Properties using LTL</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv6-3/">6.3. LTL and Counting Languages</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv6-4/">6.4. Quantified Propositional Temporal Logic (QPTL)</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv6-5/">6.5. Monadic Second-Order Logic of One Successor (S1S)</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv6-6/">6.6. Express QPTL using S1S</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv6-7/">6.7. S1S$_0$ and Büchi-recognizable LanguageBüchi-recognizable</a></td><td align="left"></td></tr></tbody></table><h2 id="Chapter-7-Alternating-Buchi-Automata"><a href="#Chapter-7-Alternating-Buchi-Automata" class="headerlink" title="Chapter 7. Alternating Büchi Automata"></a>Chapter 7. Alternating Büchi Automata</h2><table><thead><tr><th align="left">Sections</th><th align="left">Exercise</th></tr></thead><tbody><tr><td align="left"><a href="../agv7-1/">7.1. Alternating Büchi Automata</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv7-2/">7.2. From LTL to Alternating Büchi Automata</a></td><td align="left"><a href="../agv7-2/">$\varphi&#x3D;(\Diamond p)\ \mathcal{U}\ (\square q)$</a></td></tr><tr><td align="left"><a href="../agv7-3/">7.3. Translating Alternating to Nondeterministic automata</a></td><td align="left"></td></tr></tbody></table><h2 id="Chapter-8-Linear-Arithmetic"><a href="#Chapter-8-Linear-Arithmetic" class="headerlink" title="Chapter 8. Linear Arithmetic"></a>Chapter 8. Linear Arithmetic</h2><table><thead><tr><th align="left">Sections</th><th align="left">Exercise</th></tr></thead><tbody><tr><td align="left"><a href="../agv8-1/">8.1. Linear Arithmetic (Theory)</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv8-2/">8.2 Encoding real numbers</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv8-3/">8.3 Translation from Linear Arithmetic to Automata</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv8-4/">8.4 Homogenous Inequality Testing is Automatic</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv8-5/">8.5 From Linear Arithmetic to Automata</a></td><td align="left"></td></tr></tbody></table><h2 id="Chapter-9-LTL-Model-Checking"><a href="#Chapter-9-LTL-Model-Checking" class="headerlink" title="Chapter 9. LTL Model Checking"></a>Chapter 9. LTL Model Checking</h2><table><thead><tr><th align="left">Sections</th><th align="left">Exercise</th></tr></thead><tbody><tr><td align="left"><a href="../agv9-1/">9.1 Automata-based LTL Model Checking with Sequential Circuits</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv9-2/">9.2 Nested depth-first search</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv9-3/">9.3 The Emerson-Lei algorithm</a></td><td align="left"></td></tr></tbody></table><h2 id="Chapter-10-McNaughton’s-Theorem"><a href="#Chapter-10-McNaughton’s-Theorem" class="headerlink" title="Chapter 10. McNaughton’s Theorem"></a>Chapter 10. McNaughton’s Theorem</h2><table><thead><tr><th align="left">Sections</th><th align="left">Exercise</th></tr></thead><tbody><tr><td align="left"><a href="../agv10-1/">10.1 The Muller Acceptance Condition</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv10-2/">10.2 From Büchi automata to Muller automata</a></td><td align="left"></td></tr><tr><td align="left"><a href="../agv10-3/">10.3 Closure Properties of Muller Automata under Boolean Operations</a></td><td align="left"></td></tr></tbody></table><hr><p>Next chapter: <a href="../agv/"></a></p><p>Further Reading: <a href=""></a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Notes </category>
-          
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -320,6 +342,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -339,7 +363,7 @@
           
           <category> Cantonese </category>
           
-          <category> Full_Course </category>
+          <category> Full Course </category>
           
       </categories>
       
@@ -368,9 +392,9 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -378,6 +402,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -395,9 +421,9 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -405,6 +431,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -422,9 +450,9 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -432,6 +460,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -449,9 +479,9 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -459,6 +489,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -476,9 +508,9 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -486,6 +518,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -503,9 +537,9 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -513,6 +547,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -530,9 +566,9 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -540,6 +576,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -557,9 +595,9 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -567,6 +605,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -584,9 +624,9 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -594,6 +634,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -611,9 +653,9 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -621,6 +663,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -638,9 +682,9 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -648,6 +692,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -665,9 +711,9 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -675,6 +721,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -692,9 +740,9 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -702,6 +750,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -719,9 +769,9 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -729,6 +779,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -746,9 +798,9 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -756,6 +808,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -773,9 +827,9 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -783,6 +837,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -800,9 +856,9 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -810,6 +866,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -827,9 +885,9 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -837,6 +895,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -854,9 +914,9 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -864,6 +924,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -881,9 +943,9 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -891,6 +953,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -908,9 +972,9 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -918,6 +982,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -935,9 +1001,9 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -945,6 +1011,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -962,9 +1030,9 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -972,6 +1040,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -989,9 +1059,9 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -999,6 +1069,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -1016,9 +1088,9 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -1026,6 +1098,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -1043,9 +1117,9 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -1053,6 +1127,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -1070,9 +1146,9 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -1080,6 +1156,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -1097,9 +1175,9 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -1107,6 +1185,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -1124,9 +1204,9 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -1134,6 +1214,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -1146,14 +1228,14 @@
       <link href="/notes/AGV/agv3-3/"/>
       <url>/notes/AGV/agv3-3/</url>
       
-        <content type="html"><![CDATA[<p>Previous chapter: <a href="../agv3-2/">$\omega$-regular language</a></p><blockquote><p>This is a learning note of a course in <a href="https://cispa.de/de">CISPA</a>, UdS. Taught by Bernd Finkbeiner</p></blockquote><p>In the following we refer the languages recognized by Büchi automata simply as <strong>Büchi-recognizable languages</strong>. <strong>Büchi’s characterization theorem</strong> states that the $\omega$-regular languages are exactly <strong>Büchi-recognizable languages</strong>. To prepare for the proof of Büchi’s theorem, we establish several <strong>closure properties</strong> of the Büchi-recognizable languages.</p><h2 id="Closure-Properties-of-Language-Union"><a href="#Closure-Properties-of-Language-Union" class="headerlink" title="Closure Properties of Language Union"></a>Closure Properties of Language Union</h2><blockquote><p>$\textbf{Construction 3.1. } \text{Let }L_1\text{ and }L_2\text{ be }\omega\text{-languages recognized by the Büchi automata}\newline\mathcal{A}_1&#x3D;(\Sigma,Q_1,I_1,T_1,\small\text{BÜCHI}\normalsize (F_1))\text{ and }\mathcal{A}_2 &#x3D; (\Sigma,Q_2,I_2,T_2,\small\text{BÜCHI}\normalsize (F_2))\text{, respectively.}\newline\text{We construct}\mathcal{A}_\cup&#x3D;(\Sigma,Q_\cup,I_\cup,T_\cup,\small\text{BÜCHI}\normalsize (F_\cup))\text{ with }\mathcal{L}(\mathcal{A}_\cup)&#x3D;L_1\cup L_2\text{ as follows:}$<br>$\begin{array}{l}<br>\hspace{1cm} \cdot \ Q_\cup&#x3D;Q_1\cup Q_2 \hspace{1cm}(\text{w.l.o.g we assume }Q_1\cap Q_2&#x3D;\varnothing)\newline<br>\hspace{1cm} \cdot \ I_\cup&#x3D;I_1\cup I_2 \ \hspace{1cm} \cdot \ T_\cup&#x3D;T_1\cup T_2 \ \hspace{1cm} \cdot \ F_\cup&#x3D;F_1\cup F_2 \newline<br>\end{array}$</p></blockquote><p>The correctness of this construction is proven by the following theorem.</p><blockquote><p>$\textbf{Theorem 3.2. } \textit{If $L_1$ and $L_2$ are Büchi-recognizable, then so is $L_1\cup L_2$.}$</p></blockquote><h3 id="Formal-Proof"><a href="#Formal-Proof" class="headerlink" title="Formal Proof"></a>Formal Proof</h3><p>We prove that the Büchi automaton $\mathcal{A}_\cup$ built by $\mathcal{A}_1$ and $\mathcal{A}_2$ indeed recognizes the union of the languages of the two automata.</p><p>$\mathcal{L}(\mathcal{A}_\cup)\subseteq\mathcal{L}(\mathcal{A}_1)\cup\mathcal{L}(\mathcal{A}_2):$</p><p>For $\alpha\in\mathcal{L}(\mathcal{A}_\cup)$, we have an accepting run $r&#x3D;r(0)r(1)r(2)\dots$ of $\mathcal{A}_\cup$ on $\alpha$.<br>If $r(0)\in I_1$, then $r$ is an accepting run of $\mathcal{A}_1$, otherwise $r(0)\in I_2$ and $r$ is an accepting run of $\mathcal{A}_2$.</p><p>$\mathcal{L}(\mathcal{A}_\cup)\supseteq\mathcal{L}(\mathcal{A}_1)\cup\mathcal{L}(\mathcal{A}_2):$</p><p>For $i\in\lbrace 1,2\rbrace$ and $\alpha\in\mathcal{L}(\mathcal{A}_i)$, there is an accepting run $r$ of $\mathcal{A}_i$. The run $r$ is also an accepting run of $\mathcal{A}_\cup$.</p><h2 id="Closure-Properties-of-Language-Intersection"><a href="#Closure-Properties-of-Language-Intersection" class="headerlink" title="Closure Properties of Language Intersection"></a>Closure Properties of Language Intersection</h2><p>As we will see later, the Büchi-recognizable languages are closed under <code>complement</code>.<br>The closure under <code>complement</code> and <code>union</code> implies the closure under <code>intersection</code> $(\mathcal{A}_\cap &#x3D; (\mathcal{A’_1}\cup \mathcal{A’_2})’)$</p><p>Below, the automaton for the intersection is essentially the product of the two automata.</p><blockquote><p>$\textbf{Construction 3.2. } \text{Let }L_1\text{ and }L_2\text{ be }\omega\text{-languages recognized by the Büchi automata}\newline\mathcal{A}_1&#x3D;(\Sigma,Q_1,I_1,T_1,\small\text{BÜCHI}\normalsize(F_1))\text{ and }\mathcal{A}_2 &#x3D; (\Sigma,Q_2,I_2,T_2,\small\text{BÜCHI}\normalsize (F_2))\text{, respectively.}\newline\text{We construct}\mathcal{A}_\cap&#x3D;(\Sigma,Q_\cap,I_\cap,T_\cap,\small\text{BÜCHI}\normalsize (F_\cap))\text{ with }\mathcal{L}(\mathcal{A}_\cap)&#x3D;L_1\cap L_2\text{ as follows:}$<br>$\begin{array}{rll}<br>\hspace{1cm} \cdot \ Q_\cap&amp;&#x3D;&amp;Q_1\times Q_2\times\lbrace 1,2\rbrace\newline<br>\hspace{1cm} \cdot \ I_\cap&amp;&#x3D;&amp;I_1\times I_2\times\lbrace 1\rbrace\newline<br>\hspace{1cm} \cdot \ T_\cap&amp;&#x3D;&amp;\lbrace (q_1,q_2,i),\sigma ,(q’_1,q’_2,j)\mid (q_1,\sigma,q’_1)\in T_1,(q_2,\sigma,q’_2)\in T_2,i,j\in\lbrace 1,2\rbrace,\newline<br>\hspace{1cm} \ &amp;&amp;\hspace{5.3cm}q_i \notin F_i\rightarrow i&#x3D;j \wedge q_i\in F_i\wedge i\neq j\rbrace\newline<br>\hspace{1cm} \cdot \ F_\cap&amp;&#x3D;&amp;\lbrace (q_1,q_2,2)\mid q_1\in F_1, q_2\in F_2\rbrace\newline<br>\end{array}$</p></blockquote><table><thead><tr><th align="left"></th><th align="left">Explaination</th></tr></thead><tbody><tr><td align="left">$Q_\cap$</td><td align="left">States in the new automaton is <strong>tuples</strong> that contain the states of two automata plus the third component that used to <strong>combine acceptance conditions</strong>, e.g. $(q_1,q_2,1)$ is a state.</td></tr><tr><td align="left">$I_\cap$</td><td align="left">New automaton is constructed with only <strong>one initial state</strong>, so we assign the value to the acceptance condition <code>&#123;1&#125;</code> for simplicity</td></tr><tr><td align="left">$T_\cap$</td><td align="left">The switch from $\lbrace 0\rbrace$ and $\lbrace 1\rbrace$ happens nondeterministically. And once you enter the second copy $\lbrace 1\rbrace$, it stays forever.</td></tr><tr><td align="left">$F_\cap$</td><td align="left">For each transition, it has to be possible by both automata and if such transition reach the one of the automata’s accepting state, the acceptance condition changed. This creates an alternation between the accepting state of the 1st and 2nd automaton.</td></tr></tbody></table><p>Since we start our acceptance condition as <code>&#123;1&#125;</code>, our accepting states of the new automaton will be the <strong>accepting states of the 2nd automaton when acceptance condition becomes <code>&#123;2&#125;</code></strong>. i.e. Whenever the run reach to the accepting states of the 2nd automaton, it always has to first reach the accepting states of the 1st automaton.</p><blockquote><p>$\textbf{Theorem 3.3. } \textit{If $L_1$ and $L_2$ are Büchi-recognizable, then so is $L_1\cap L_2$.}$</p></blockquote><h3 id="Formal-Proof-1"><a href="#Formal-Proof-1" class="headerlink" title="Formal Proof"></a>Formal Proof</h3><p>The run $r’$ is accepting iff $r_1$ is accepting and $r_2$ is accepting.</p><p>i.e. $r’&#x3D;(q_1^0,q_2^0,t^0)(q_1^1,q_2^1,t^1)\dots$ is a run of $\mathcal{A}_\cap$ on an input word $\alpha$,<br>iff $r_1 &#x3D; q^0_1 q^1_1\dots$ is a run of $\mathcal{A}_1$ on $\alpha$ and $r_1 &#x3D; q^0_2 q^1_2\dots$ is a run of $\mathcal{A}_2$ on $\alpha$</p><p>Therefore, an accepting run will be: <strong>(1)</strong> go to states with <code>&#123;1&#125;</code> → <strong>(2)</strong> reach accepting state of 1st automaton → <strong>(3)</strong> go to states with <code>&#123;2&#125;</code> → <strong>(4)</strong> reach accepting state of 2nd automaton → goes back to <strong>(1)</strong>…</p><hr><p>Next chapter: <a href="../agv3-4/">Closure Properties of the Büchi-recognizable languages (Concatenations)</a></p><p>Further Reading: <a href="https://en.wikipedia.org/wiki/Closure_(mathematics)">Closure (mathematics)</a>, <a href="https://en.wikipedia.org/wiki/Intersection_(set_theory)">Intersection (set theory)</a>, <a href="https://en.wikipedia.org/wiki/Union_(set_theory)">Union (set theory)</a></p>]]></content>
+        <content type="html"><![CDATA[<p>Previous chapter: <a href="../agv3-2/">$\omega$-regular language</a></p><blockquote><p>This is a learning note of a course in <a href="https://cispa.de/de">CISPA</a>, UdS. Taught by Bernd Finkbeiner</p></blockquote><p>In the following we refer the languages recognized by Büchi automata simply as <strong>Büchi-recognizable languages</strong>. <strong>Büchi’s characterization theorem</strong> states that the $\omega$-regular languages are exactly <strong>Büchi-recognizable languages</strong>. To prepare for the proof of Büchi’s theorem, we establish several <strong>closure properties</strong> of the Büchi-recognizable languages.</p><h2 id="Closure-Properties-of-Language-Union"><a href="#Closure-Properties-of-Language-Union" class="headerlink" title="Closure Properties of Language Union"></a>Closure Properties of Language Union</h2><blockquote><p>$\textbf{Construction 3.1. } \text{Let }L_1\text{ and }L_2\text{ be }\omega\text{-languages recognized by the Büchi automata}$ $\mathcal{A}_1&#x3D;(\Sigma,Q_1,I_1,T_1,\small\text{BÜCHI}\normalsize (F_1))\text{ and }\mathcal{A}_2 &#x3D; (\Sigma,Q_2,I_2,T_2,\small\text{BÜCHI}\normalsize (F_2))\text{, respectively.}$ $\text{We construct}\mathcal{A}_\cup&#x3D;(\Sigma,Q_\cup,I_\cup,T_\cup,\small\text{BÜCHI}\normalsize (F_\cup))\text{ with }\mathcal{L}(\mathcal{A}_\cup)&#x3D;L_1\cup L_2\text{ as follows:}$<br>$\begin{array}{l}\newline<br>\hspace{1cm} \cdot \ Q_\cup&#x3D;Q_1\cup Q_2 \hspace{1cm}(\text{w.l.o.g we assume }Q_1\cap Q_2&#x3D;\varnothing)\newline<br>\hspace{1cm} \cdot \ I_\cup&#x3D;I_1\cup I_2 \ \hspace{1cm} \cdot \ T_\cup&#x3D;T_1\cup T_2 \ \hspace{1cm} \cdot \ F_\cup&#x3D;F_1\cup F_2 \newline<br>\end{array}$</p></blockquote><p>The correctness of this construction is proven by the following theorem.</p><blockquote><p>$\textbf{Theorem 3.2. }\text{If }\textit{$L_1$ and $L_2$ are Büchi-recognizable, then so is $L_1\cup L_2$.}$</p></blockquote><h3 id="Formal-Proof"><a href="#Formal-Proof" class="headerlink" title="Formal Proof"></a>Formal Proof</h3><p>We prove that the Büchi automaton $\mathcal{A}_\cup$ built by $\mathcal{A}_1$ and $\mathcal{A}_2$ indeed recognizes the union of the languages of the two automata.</p><p>$\mathcal{L}(\mathcal{A}_\cup)\subseteq\mathcal{L}(\mathcal{A}_1)\cup\mathcal{L}(\mathcal{A}_2):$</p><p>For $\alpha\in\mathcal{L}(\mathcal{A}_\cup)$, we have an accepting run $r&#x3D;r(0)r(1)r(2)\dots$ of $\mathcal{A}_\cup$ on $\alpha$.<br>If $r(0)\in I_1$, then $r$ is an accepting run of $\mathcal{A}_1$, otherwise $r(0)\in I_2$ and $r$ is an accepting run of $\mathcal{A}_2$.</p><p>$\mathcal{L}(\mathcal{A}_\cup)\supseteq\mathcal{L}(\mathcal{A}_1)\cup\mathcal{L}(\mathcal{A}_2):$</p><p>For $i\in\lbrace 1,2\rbrace$ and $\alpha\in\mathcal{L}(\mathcal{A}_i)$, there is an accepting run $r$ of $\mathcal{A}_i$. The run $r$ is also an accepting run of $\mathcal{A}_\cup$.</p><h2 id="Closure-Properties-of-Language-Intersection"><a href="#Closure-Properties-of-Language-Intersection" class="headerlink" title="Closure Properties of Language Intersection"></a>Closure Properties of Language Intersection</h2><p>As we will see later, the Büchi-recognizable languages are closed under <code>complement</code>.<br>The closure under <code>complement</code> and <code>union</code> implies the closure under <code>intersection</code> $(\mathcal{A}_\cap &#x3D; (\mathcal{A’_1}\cup \mathcal{A’_2})’)$</p><p>Below, the automaton for the intersection is essentially the product of the two automata.</p><blockquote><p>$\textbf{Construction 3.2. } \text{Let }L_1\text{ and }L_2\text{ be }\omega\text{-languages recognized by the Büchi automata}$ $\mathcal{A}_1&#x3D;(\Sigma,Q_1,I_1,T_1,\small\text{BÜCHI}\normalsize(F_1))\text{ and }\mathcal{A}_2 &#x3D; (\Sigma,Q_2,I_2,T_2,\small\text{BÜCHI}\normalsize (F_2))\text{, respectively.}$ $\text{We construct }\mathcal{A}_\cap&#x3D;(\Sigma,Q_\cap,I_\cap,T_\cap,\small\text{BÜCHI}\normalsize (F_\cap))\text{ with }\mathcal{L}(\mathcal{A}_\cap)&#x3D;L_1\cap L_2\text{ as follows:}$<br>$\begin{array}{rll}\newline<br>\hspace{1cm} \cdot \ Q_\cap&amp;&#x3D;&amp;Q_1\times Q_2\times\lbrace 1,2\rbrace\newline<br>\hspace{1cm} \cdot \ I_\cap&amp;&#x3D;&amp;I_1\times I_2\times\lbrace 1\rbrace\newline<br>\hspace{1cm} \cdot \ T_\cap&amp;&#x3D;&amp;\lbrace (q_1,q_2,i),\sigma ,(q’_1,q’_2,j)\mid (q_1,\sigma,q’_1)\in T_1,(q_2,\sigma,q’_2)\in T_2,i,j\in\lbrace 1,2\rbrace,\newline<br>\hspace{1cm} \ &amp;&amp;\hspace{5.3cm}q_i \notin F_i\rightarrow i&#x3D;j \wedge q_i\in F_i\wedge i\neq j\rbrace\newline<br>\hspace{1cm} \cdot \ F_\cap&amp;&#x3D;&amp;\lbrace (q_1,q_2,2)\mid q_1\in F_1, q_2\in F_2\rbrace\newline<br>\end{array}$</p></blockquote><table><thead><tr><th align="left"></th><th align="left">Explaination</th></tr></thead><tbody><tr><td align="left">$Q_\cap$</td><td align="left">States in the new automaton is <strong>tuples</strong> that contain the states of two automata plus the third component that used to <strong>combine acceptance conditions</strong>, e.g. $(q_1,q_2,1)$ is a state.</td></tr><tr><td align="left">$I_\cap$</td><td align="left">New automaton is constructed with only <strong>one initial state</strong>, so we assign the value to the acceptance condition <code>&#123;1&#125;</code> for simplicity</td></tr><tr><td align="left">$T_\cap$</td><td align="left">The switch from $\lbrace 0\rbrace$ and $\lbrace 1\rbrace$ happens nondeterministically. And once you enter the second copy $\lbrace 1\rbrace$, it stays forever.</td></tr><tr><td align="left">$F_\cap$</td><td align="left">For each transition, it has to be possible by both automata and if such transition reach the one of the automata’s accepting state, the acceptance condition changed. This creates an alternation between the accepting state of the 1st and 2nd automaton.</td></tr></tbody></table><p>Since we start our acceptance condition as <code>&#123;1&#125;</code>, our accepting states of the new automaton will be the <strong>accepting states of the 2nd automaton when acceptance condition becomes <code>&#123;2&#125;</code></strong>. i.e. Whenever the run reach to the accepting states of the 2nd automaton, it always has to first reach the accepting states of the 1st automaton.</p><blockquote><p>$\textbf{Theorem 3.3. } \textit{If $L_1$ and $L_2$ are Büchi-recognizable, then so is $L_1\cap L_2$.}$</p></blockquote><h3 id="Formal-Proof-1"><a href="#Formal-Proof-1" class="headerlink" title="Formal Proof"></a>Formal Proof</h3><p>The run $r’$ is accepting iff $r_1$ is accepting and $r_2$ is accepting.</p><p>i.e. $r’&#x3D;(q_1^0,q_2^0,t^0)(q_1^1,q_2^1,t^1)\dots$ is a run of $\mathcal{A}_\cap$ on an input word $\alpha$,<br>iff $r_1 &#x3D; q^0_1 q^1_1\dots$ is a run of $\mathcal{A}_1$ on $\alpha$ and $r_1 &#x3D; q^0_2 q^1_2\dots$ is a run of $\mathcal{A}_2$ on $\alpha$</p><p>Therefore, an accepting run will be: <strong>(1)</strong> go to states with <code>&#123;1&#125;</code> → <strong>(2)</strong> reach accepting state of 1st automaton → <strong>(3)</strong> go to states with <code>&#123;2&#125;</code> → <strong>(4)</strong> reach accepting state of 2nd automaton → goes back to <strong>(1)</strong>…</p><hr><p>Next chapter: <a href="../agv3-4/">Closure Properties of the Büchi-recognizable languages (Concatenations)</a></p><p>Further Reading: <a href="https://en.wikipedia.org/wiki/Closure_(mathematics)">Closure (mathematics)</a>, <a href="https://en.wikipedia.org/wiki/Intersection_(set_theory)">Intersection (set theory)</a>, <a href="https://en.wikipedia.org/wiki/Union_(set_theory)">Union (set theory)</a></p>]]></content>
       
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -1161,6 +1243,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -1178,9 +1262,9 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -1188,6 +1272,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -1200,14 +1286,14 @@
       <link href="/notes/AGV/agv3-1/"/>
       <url>/notes/AGV/agv3-1/</url>
       
-        <content type="html"><![CDATA[<p>Previous chapter: <a href="../agv2-3/">The Büchi Acceptance Condition</a></p><blockquote><p>This is a learning note of a course in <a href="https://cispa.de/de">CISPA</a>, UdS. Taught by Bernd Finkbeiner</p></blockquote><h2 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h2><p><em>Kleene’s theorem</em> states that the <em>set of languages over finite words</em> that can be defined by <strong>regular expressions</strong> is exactly the set of languages that can be recognized by <strong>automata over finite words</strong>.</p><p>Based on this, we define $\omega$-regular expressions, and finally prove the corresponding theorem for $\omega$-regular languages: <strong>Büchi’s characterization theorem</strong>.</p><h2 id="Regular-Expression"><a href="#Regular-Expression" class="headerlink" title="Regular Expression"></a>Regular Expression</h2><p>Regular expression consist of <strong>constants</strong> that denote languages of <em>finite words</em>, and<br>consist of <strong>operator symbols</strong> that denote <em>operations over these languages</em>.</p><p>The collection of regular languages over an alphabet $\Sigma$ is $\mathcal{L}(E)$, where $E$ is a regular expression.<br>Regular expression can be defined as $E :&#x3D; \varepsilon\mid\varnothing\mid a\in\Sigma\mid E+F\mid E\cdot F\mid E^* $, where:</p><ul><li><strong>empty language</strong>: $\varepsilon$,</li><li><strong>empty string language</strong>: $\varnothing$,</li><li><strong>singleton language</strong>: (single letter from alphabet) $a\in\Sigma$,</li><li><strong>union</strong> of regular languages: $E+F$,</li><li><strong>concatenation</strong> of regular languages: $E\cdot F$, and</li><li>language with <strong>kleene star</strong>: $E^*$.</li></ul><blockquote><p>$\textbf{Definition 3.1. } \textit{Regular expressions } \text{are defined as follows:}$<br>$\begin{array}{l}\hspace{1cm} \cdot \ \text{The constants }\varepsilon\text{ and }\varnothing\text{ are regular expressions.}\newline<br>\hspace{1cm} \ \ \mathcal{L}(\varepsilon) &#x3D; \lbrace\varepsilon\rbrace ,\mathcal{L}(\varnothing)&#x3D;\varnothing.\newline<br>\hspace{1cm} \cdot \ \text{If }a\in\Sigma\text{ is a symbol, then }a\text{ is a regular expressions.}\newline<br>\hspace{1cm} \ \ \mathcal{L}(a) &#x3D; \lbrace a\rbrace .\newline<br>\hspace{1cm} \cdot \ \text{If }E\text{ and }F\text{ are regular expressions, then }E+F\text{ is a regular expression:}\newline<br>\hspace{1cm} \ \ \mathcal{L}(E+F) &#x3D; \mathcal{L}(E)\cup\mathcal{L}(F) .\newline<br>\hspace{1cm} \cdot \ \text{If }E\text{ and }F\text{ are regular expressions, then }E\cdot F\text{ is a regular expression:}\newline<br>\hspace{1cm} \ \ \mathcal{L}(E\cdot F) &#x3D; \lbrace uv\mid u\in\mathcal{L}(E),v\in\mathcal{L}(F)\rbrace.\newline<br>\hspace{1cm} \cdot \ \text{If }E\text{ is a regular expression, then }E^*\text{ is a regular expression.}\newline<br>\hspace{1cm} \ \ \mathcal{L}(E^{\ast}) &#x3D; \lbrace u_1u_2\dots u_n\mid n\in\mathbb{N},u_i\in\mathcal{L}(E)\text{ for all }0\leq i\leq n\rbrace.\end{array}$</p></blockquote><h2 id="Kleene’s-Theorem"><a href="#Kleene’s-Theorem" class="headerlink" title="Kleene’s Theorem"></a>Kleene’s Theorem</h2><p><em>A language over finite words</em> is <strong>regular</strong> if it is definable by a <em>regular expression</em>, or<br>if it is recognized by <em>automata over finite words</em>.</p><blockquote><p>$\textbf{Definition 3.2. } \text{An }\textit{automaton on finite words } \mathcal{A}\text{ is a tuple } (\Sigma,Q,I,T,F), \text{ where }\Sigma\text{ is an input} \newline \text{alphabet, }Q\text{ is a nonempty finite set of states, }I\in Q\text{ is a set of initial states, }\Delta\subseteq Q\times\Sigma\times Q\text{ is}\newline\text{a set of transitions, and }F\subseteq Q\text{ are a set of finite states.}$</p></blockquote><h3 id="Mathematical-Definition"><a href="#Mathematical-Definition" class="headerlink" title="Mathematical Definition"></a>Mathematical Definition</h3><p>An automaton $\mathcal{A}$ accepts a finite word $w \in\Sigma^*$ if there is a finite sequence of states $q(0)q(1) . . . q(|w|)$ such that $q(0)\in I$ and $(q(i),w(i), q(i + 1))\in\Delta$ for all $i &lt; |w|$ and with $q(|w|)\in F$</p><h3 id="Explained-in-Human-language"><a href="#Explained-in-Human-language" class="headerlink" title="Explained in Human language"></a>Explained in Human language</h3><p>In a nutshell, a finite word $w$ is <strong>accepted</strong> by an automaton $\mathcal{A} &#x3D; (\Sigma,Q,I,T,F)$ if:</p><table><thead><tr><th align="left">Notation</th><th align="left">Explaination</th></tr></thead><tbody><tr><td align="left">$\Sigma$</td><td align="left">$w$ is a finite word in $\Sigma$</td></tr><tr><td align="left">$Q$</td><td align="left">There exists a finite sequence of states $q(0)q(1) . . . q(|w|)$</td></tr><tr><td align="left">$I$</td><td align="left">In such sequence, $q(0)$ is one of the initial state $I$</td></tr><tr><td align="left">$T$</td><td align="left">In such sequence, there is transition from $q(i)$ to $q(i+1)$ for each letter $w(i)$, where $i&lt;|w|$</td></tr><tr><td align="left">$F$</td><td align="left">In such sequence, $q(|w|)$ is one of the final state $F$, and it will be the last state of the run since there is no more letters</td></tr></tbody></table><h3 id="From-accepted-word-to-accepted-language"><a href="#From-accepted-word-to-accepted-language" class="headerlink" title="From accepted word to accepted language"></a>From accepted word to accepted language</h3><p>The set of all words accepted by $\mathcal{A}$ is called the <strong>language</strong> of $\mathcal{A}$, denoted by $\mathcal{L}(\mathcal{A})$.</p><blockquote><p>$\textbf{Theorem 3.1. } \text{(Kleene’s Theorem)}\newline\textit{A language is regular iff it is recognized by some finite word automaton.}$</p></blockquote><hr><p>Next post: <a href="../agv3-2/">$\omega$-regular language</a></p><p>Further Reading: <a href="https://en.wikipedia.org/wiki/Regular_expression">Regular expression</a>,<a href="https://en.wikipedia.org/wiki/Regular_language">Regular language</a> <a href="https://en.wikipedia.org/wiki/Kleene_star#:~:text=The%20Kleene%20star%20is%20defined,x%E2%8B%85y%20%E2%88%88%20S*.">Kleene star</a></p>]]></content>
+        <content type="html"><![CDATA[<p>Previous chapter: <a href="../agv2-3/">The Büchi Acceptance Condition</a></p><blockquote><p>This is a learning note of a course in <a href="https://cispa.de/de">CISPA</a>, UdS. Taught by Bernd Finkbeiner</p></blockquote><h2 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h2><p><em>Kleene’s theorem</em> states that the <em>set of languages over finite words</em> that can be defined by <strong>regular expressions</strong> is exactly the set of languages that can be recognized by <strong>automata over finite words</strong>.</p><p>Based on this, we define $\omega$-regular expressions, and finally prove the corresponding theorem for $\omega$-regular languages: <strong>Büchi’s characterization theorem</strong>.</p><h2 id="Regular-Expression"><a href="#Regular-Expression" class="headerlink" title="Regular Expression"></a>Regular Expression</h2><p>Regular expression consist of <strong>constants</strong> that denote languages of <em>finite words</em>, and<br>consist of <strong>operator symbols</strong> that denote <em>operations over these languages</em>.</p><p>The collection of regular languages over an alphabet $\Sigma$ is $\mathcal{L}(E)$, where $E$ is a regular expression.<br>Regular expression can be defined as $E :&#x3D; \varepsilon\mid\varnothing\mid a\in\Sigma\mid E+F\mid E\cdot F\mid E^* $, where:</p><ul><li><strong>empty language</strong>: $\varepsilon$,</li><li><strong>empty string language</strong>: $\varnothing$,</li><li><strong>singleton language</strong>: (single letter from alphabet) $a\in\Sigma$,</li><li><strong>union</strong> of regular languages: $E+F$,</li><li><strong>concatenation</strong> of regular languages: $E\cdot F$, and</li><li>language with <strong>kleene star</strong>: $E^*$.</li></ul><blockquote><p>$\textbf{Definition 3.1. } \textit{Regular expressions } \text{are defined as follows:}$<br>$\begin{array}{l}\hspace{1cm} \cdot \ \text{The constants }\varepsilon\text{ and }\varnothing\text{ are regular expressions.}\newline<br>\hspace{1cm} \ \ \mathcal{L}(\varepsilon) &#x3D; \lbrace\varepsilon\rbrace ,\mathcal{L}(\varnothing)&#x3D;\varnothing.\newline<br>\hspace{1cm} \cdot \ \text{If }a\in\Sigma\text{ is a symbol, then }a\text{ is a regular expressions.}\newline<br>\hspace{1cm} \ \ \mathcal{L}(a) &#x3D; \lbrace a\rbrace .\newline<br>\hspace{1cm} \cdot \ \text{If }E\text{ and }F\text{ are regular expressions, then }E+F\text{ is a regular expression:}\newline<br>\hspace{1cm} \ \ \mathcal{L}(E+F) &#x3D; \mathcal{L}(E)\cup\mathcal{L}(F) .\newline<br>\hspace{1cm} \cdot \ \text{If }E\text{ and }F\text{ are regular expressions, then }E\cdot F\text{ is a regular expression:}\newline<br>\hspace{1cm} \ \ \mathcal{L}(E\cdot F) &#x3D; \lbrace uv\mid u\in\mathcal{L}(E),v\in\mathcal{L}(F)\rbrace.\newline<br>\hspace{1cm} \cdot \ \text{If }E\text{ is a regular expression, then }E^*\text{ is a regular expression.}\newline<br>\hspace{1cm} \ \ \mathcal{L}(E^{\ast}) &#x3D; \lbrace u_1u_2\dots u_n\mid n\in\mathbb{N},u_i\in\mathcal{L}(E)\text{ for all }0\leq i\leq n\rbrace.\end{array}$</p></blockquote><h2 id="Kleene’s-Theorem"><a href="#Kleene’s-Theorem" class="headerlink" title="Kleene’s Theorem"></a>Kleene’s Theorem</h2><p><em>A language over finite words</em> is <strong>regular</strong> if it is definable by a <em>regular expression</em>, or<br>if it is recognized by <em>automata over finite words</em>.</p><blockquote><p>$\textbf{Definition 3.2. } \text{An }\textit{automaton on finite words } \mathcal{A}\text{ is a tuple } (\Sigma,Q,I,T,F), \text{ where }\Sigma\text{ is an input} $ $ \text{alphabet, }Q\text{ is a nonempty finite set of states, }I\in Q\text{ is a set of initial states, }\Delta\subseteq Q\times\Sigma\times Q\text{ is}$ $\text{a set of transitions, and }F\subseteq Q\text{ are a set of finite states.}$</p></blockquote><h3 id="Mathematical-Definition"><a href="#Mathematical-Definition" class="headerlink" title="Mathematical Definition"></a>Mathematical Definition</h3><p>An automaton $\mathcal{A}$ accepts a finite word $w \in\Sigma^*$ if there is a finite sequence of states $q(0)q(1) . . . q(|w|)$ such that $q(0)\in I$ and $(q(i),w(i), q(i + 1))\in\Delta$ for all $i &lt; |w|$ and with $q(|w|)\in F$</p><h3 id="Explained-in-Human-language"><a href="#Explained-in-Human-language" class="headerlink" title="Explained in Human language"></a>Explained in Human language</h3><p>In a nutshell, a finite word $w$ is <strong>accepted</strong> by an automaton $\mathcal{A} &#x3D; (\Sigma,Q,I,T,F)$ if:</p><table><thead><tr><th align="left">Notation</th><th align="left">Explaination</th></tr></thead><tbody><tr><td align="left">$\Sigma$</td><td align="left">$w$ is a finite word in $\Sigma$</td></tr><tr><td align="left">$Q$</td><td align="left">There exists a finite sequence of states $q(0)q(1) . . . q(|w|)$</td></tr><tr><td align="left">$I$</td><td align="left">In such sequence, $q(0)$ is one of the initial state $I$</td></tr><tr><td align="left">$T$</td><td align="left">In such sequence, there is transition from $q(i)$ to $q(i+1)$ for each letter $w(i)$, where $i&lt;|w|$</td></tr><tr><td align="left">$F$</td><td align="left">In such sequence, $q(|w|)$ is one of the final state $F$, and it will be the last state of the run since there is no more letters</td></tr></tbody></table><h3 id="From-accepted-word-to-accepted-language"><a href="#From-accepted-word-to-accepted-language" class="headerlink" title="From accepted word to accepted language"></a>From accepted word to accepted language</h3><p>The set of all words accepted by $\mathcal{A}$ is called the <strong>language</strong> of $\mathcal{A}$, denoted by $\mathcal{L}(\mathcal{A})$.</p><blockquote><p>$\textbf{Theorem 3.1. }\text{(Kleene’s Theorem)}$ $\textit{A language is regular }\text{iff}\textit{ it is recognized by some finite word automaton.}$</p></blockquote><hr><p>Next post: <a href="../agv3-2/">$\omega$-regular language</a></p><p>Further Reading: <a href="https://en.wikipedia.org/wiki/Regular_expression">Regular expression</a>,<a href="https://en.wikipedia.org/wiki/Regular_language">Regular language</a> <a href="https://en.wikipedia.org/wiki/Kleene_star#:~:text=The%20Kleene%20star%20is%20defined,x%E2%8B%85y%20%E2%88%88%20S*.">Kleene star</a></p>]]></content>
       
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -1215,6 +1301,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -1227,14 +1315,14 @@
       <link href="/notes/AGV/agv2-3/"/>
       <url>/notes/AGV/agv2-3/</url>
       
-        <content type="html"><![CDATA[<p>Previous chapter: <a href="../agv2-2/">Automata over Infinite Words</a></p><blockquote><p>This is a learning note of a course in <a href="https://cispa.de/de">CISPA</a>, UdS. Taught by Bernd Finkbeiner</p></blockquote><h2 id="2-3-The-Buchi-Acceptance-Condition"><a href="#2-3-The-Buchi-Acceptance-Condition" class="headerlink" title="2.3 The Büchi Acceptance Condition"></a>2.3 The Büchi Acceptance Condition</h2><p>The Büchi Acceptance Condition is given as a set of <strong>accepting states</strong> $F$.<br>A run of a Büchi automaton is accepting if <strong>some state from this set occurs infinitely often</strong>.</p><p><a name="inf"></a></p><h3 id="Infinite-word"><a href="#Infinite-word" class="headerlink" title="Infinite word"></a>Infinite word</h3><p>For an infinite word $\alpha$ over $\Sigma$, an <strong>Infinity Set</strong> of $\alpha$ is denoted as:<br>$$\text{Inf}(\alpha) &#x3D; \lbrace\sigma\in\Sigma\mid\forall m\in\mathbb{N}.\exists n\in\mathbb{N}.n\geq m \text{ and } \alpha(n)&#x3D;\sigma\rbrace$$</p><p>Meaning that $\text{Inf}(\alpha)$ is a set of all letters $\sigma$ from the alphabet $\Sigma$, so that<br>for all $m$, you can always find $\sigma$ as the n-th letter of $\alpha$ when there exists an $n$ where $n\geq m$.</p><p>This denotes the set of all letters of $\Sigma$ that occur <strong>infinitely often</strong> in $\alpha$.</p><h3 id="Buchi-Condition"><a href="#Buchi-Condition" class="headerlink" title="Büchi Condition"></a>Büchi Condition</h3><p>To express the meaning of “some state from the set of <em>accepting states</em> is reached <strong>infinitely often</strong>“, we can rewrite our accpeing condition $Acc$ into Büchi Condition $\small\text{BÜCHI} \normalsize(F)$. Here, $\small\text{BÜCHI} \normalsize(F)$ is a set of <em>infinite word</em>:</p><blockquote><p>$\textbf{Definition 2.4. } \text{ The } \textit{Büchi Condition } \small\text{BÜCHI} \normalsize(F)\text{ on a set of states }F\subseteq Q\text{ is the set}$</p><p>$$\small\text{BÜCHI} \normalsize(F) &#x3D; \lbrace\alpha\in Q^\omega \mid \text{Inf}(\alpha) \cap F \neq \varnothing\rbrace$$</p><p>$\text{An automaton }\mathcal{A}&#x3D;(\Sigma,Q,I,T,Acc)\text{ with }Acc&#x3D;\small\text{BÜCHI} \normalsize(F)\text{ is called a }\textit{Büchi automaton.}\newline \text{The set }F\text{ is called the }\textit{set of accepting states.}$</p></blockquote><h2 id="Constrcution-of-Complete-Buchi-Automaton"><a href="#Constrcution-of-Complete-Buchi-Automaton" class="headerlink" title="Constrcution of Complete Büchi Automaton"></a>Constrcution of Complete Büchi Automaton</h2><blockquote><p>$\textbf{Theorem 2.1. } \textit{For every Büchi Automaton }\mathcal{A},\text{ there is a complete Büchi Automaton }\mathcal{A}’ \newline \textit{such that }\mathcal{L}(\mathcal{A}) &#x3D; \mathcal{L}(\mathcal{A}’)$</p></blockquote><h3 id="Example"><a href="#Example" class="headerlink" title="Example"></a>Example</h3><p>Let $\mathcal{A}$ be the automaton from <a href="../agv2-2/#eg1">Example 2.1</a> with Büchi acceptance condition $\small\text{BÜCHI}\normalsize (\lbrace D\rbrace)$. The language of the automaton consists of a single word:<br>$$\mathcal{L}(\mathcal{A})&#x3D;\lbrace aabbaabbaabb\dots\rbrace$$</p><p>For a Büchi Automaton $\mathcal{A} &#x3D; (\Sigma,Q,I,T,\small\text{BÜCHI} \normalsize(F))$,<br>we define the <strong>complete</strong> Büchi Automaton $\mathcal{A’} &#x3D; (\Sigma,Q’,I’,T’,\small\text{BÜCHI} \normalsize (F’))$ using:</p><ul><li>$Q’$ &#x3D; $Q \cup \lbrace q_f\rbrace$ where $q_f$ is a fresh state</li><li>$I’$ &#x3D; $I$</li><li>$T’$ &#x3D; $T \cup \lbrace (q,\sigma,q_f) \mid \nexists q’ . (q,\sigma,q’)\in T\rbrace\cup\lbrace (q_f,\sigma,q_f)\mid\sigma\in\Sigma\rbrace$</li><li>$F’$ &#x3D; $F$</li></ul><p><img src="/notes/images/notes/uds/agv/2_3_eg.png"></p><h3 id="Explained-in-Human-language"><a href="#Explained-in-Human-language" class="headerlink" title="Explained in Human language"></a>Explained in Human language</h3><p>First, we add a <strong>fresh state</strong> $q_f$ the <em>set of state</em> $Q$ without changing the <em>initial</em> and <em>accepting</em> states.</p><p>A <em>complete Büchi Automaton</em> requires every states must have transitions for every letters in the alphabet.<br>So for each states orginally in $Q$, we construct new transitions that the letters are not yet used by the state.<br>(which is $\nexists q’ . (q,\sigma,q’)\in T$)</p><p>Finally, for all transitions from the fresh state are self transitioning, and they include all letters.<br>(which is $(q_f,\sigma,q_f)\mid\sigma\in\Sigma$)</p><h3 id="Formal-Proof"><a href="#Formal-Proof" class="headerlink" title="Formal Proof"></a>Formal Proof</h3><ul><li><p>The runs of $\mathcal{A’}$ are a <strong>superset</strong> of those of $\mathcal{A}$.</p><ul><li>During the construction of $\mathcal{A’}$, we have not removed any original transitions, but adding new fresh states.</li></ul></li><li><p>Furthermore, on <strong>any infinite input word</strong>, the accepting runs of $\mathcal{A}$ and $\mathcal{A’}$ are the same.</p><ul><li>If $\mathcal{A}$ accepts, $\mathcal{A’}$ also accepts because $\mathcal{A’}$ is a superset.</li><li>If a run reaches new fresh states $q_f$ stays in $q_f$ forever, and</li><li>since $q_f\notin F’$, such a run is not accepting.</li></ul></li></ul><h2 id="Summary"><a href="#Summary" class="headerlink" title="Summary"></a>Summary</h2><p>A <em>complete deterministic automaton</em> may be viewed as a <strong>total function</strong> from $\Sigma^\omega$ to $Q^\omega$.<br>A <em>complete (possibly nondeterministic) automaton</em> produces <strong>at least one run for every input word</strong>.</p><hr><p>Next chapter: <a href="../agv3-1/">Kleene’s Theorem</a></p><p>Further Reading: <a href="https://en.wikipedia.org/wiki/B%C3%BCchi_automaton">Büchi automaton</a>, <a href="https://en.wikipedia.org/wiki/Omega_language">Omega language</a></p>]]></content>
+        <content type="html"><![CDATA[<p>Previous chapter: <a href="../agv2-2/">Automata over Infinite Words</a></p><blockquote><p>This is a learning note of a course in <a href="https://cispa.de/de">CISPA</a>, UdS. Taught by Bernd Finkbeiner</p></blockquote><h2 id="2-3-The-Buchi-Acceptance-Condition"><a href="#2-3-The-Buchi-Acceptance-Condition" class="headerlink" title="2.3 The Büchi Acceptance Condition"></a>2.3 The Büchi Acceptance Condition</h2><p>The Büchi Acceptance Condition is given as a set of <strong>accepting states</strong> $F$.<br>A run of a Büchi automaton is accepting if <strong>some state from this set occurs infinitely often</strong>.</p><p><a name="inf"></a></p><h3 id="Infinite-word"><a href="#Infinite-word" class="headerlink" title="Infinite word"></a>Infinite word</h3><p>For an infinite word $\alpha$ over $\Sigma$, an <strong>Infinity Set</strong> of $\alpha$ is denoted as:<br>$$\text{Inf}(\alpha) &#x3D; \lbrace\sigma\in\Sigma\mid\forall m\in\mathbb{N}.\exists n\in\mathbb{N}.n\geq m \text{ and } \alpha(n)&#x3D;\sigma\rbrace$$</p><p>Meaning that $\text{Inf}(\alpha)$ is a set of all letters $\sigma$ from the alphabet $\Sigma$, so that<br>for all $m$, you can always find $\sigma$ as the n-th letter of $\alpha$ when there exists an $n$ where $n\geq m$.</p><p>This denotes the set of all letters of $\Sigma$ that occur <strong>infinitely often</strong> in $\alpha$.</p><h3 id="Buchi-Condition"><a href="#Buchi-Condition" class="headerlink" title="Büchi Condition"></a>Büchi Condition</h3><p>To express the meaning of “some state from the set of <em>accepting states</em> is reached <strong>infinitely often</strong>“, we can rewrite our accpeing condition $Acc$ into Büchi Condition $\small\text{BÜCHI} \normalsize(F)$. Here, $\small\text{BÜCHI} \normalsize(F)$ is a set of <em>infinite word</em>:</p><blockquote><p>$\textbf{Definition 2.4. } \text{ The } \textit{Büchi Condition } \small\text{BÜCHI} \normalsize(F)\text{ on a set of states }F\subseteq Q\text{ is the set}$</p><p>$$\small\text{BÜCHI} \normalsize(F) &#x3D; \lbrace\alpha\in Q^\omega \mid \text{Inf}(\alpha) \cap F \neq \varnothing\rbrace$$</p><p>$\text{An automaton }\mathcal{A}&#x3D;(\Sigma,Q,I,T,Acc)\text{ with }Acc&#x3D;\small\text{BÜCHI} \normalsize(F)\text{ is called a }\textit{Büchi automaton.}$ $\text{The set }F\text{ is called the }\textit{set of accepting states.}$</p></blockquote><h2 id="Constrcution-of-Complete-Buchi-Automaton"><a href="#Constrcution-of-Complete-Buchi-Automaton" class="headerlink" title="Constrcution of Complete Büchi Automaton"></a>Constrcution of Complete Büchi Automaton</h2><blockquote><p>$\textbf{Theorem 2.1. }$ $\textit{For every Büchi Automaton }\mathcal{A},\text{ there is a complete Büchi Automaton }\mathcal{A}’\textit{ such that }\mathcal{L}(\mathcal{A}) &#x3D; \mathcal{L}(\mathcal{A}’)$</p></blockquote><h3 id="Example"><a href="#Example" class="headerlink" title="Example"></a>Example</h3><p>Let $\mathcal{A}$ be the automaton from <a href="../agv2-2/#eg1">Example 2.1</a> with Büchi acceptance condition $\small\text{BÜCHI}\normalsize (\lbrace D\rbrace)$. The language of the automaton consists of a single word:<br>$$\mathcal{L}(\mathcal{A})&#x3D;\lbrace aabbaabbaabb\dots\rbrace$$</p><p>For a Büchi Automaton $\mathcal{A} &#x3D; (\Sigma,Q,I,T,\small\text{BÜCHI} \normalsize(F))$,<br>we define the <strong>complete</strong> Büchi Automaton $\mathcal{A’} &#x3D; (\Sigma,Q’,I’,T’,\small\text{BÜCHI} \normalsize (F’))$ using:</p><ul><li>$Q’$ &#x3D; $Q \cup \lbrace q_f\rbrace$ where $q_f$ is a fresh state</li><li>$I’$ &#x3D; $I$</li><li>$T’$ &#x3D; $T \cup \lbrace (q,\sigma,q_f) \mid \nexists q’ . (q,\sigma,q’)\in T\rbrace\cup\lbrace (q_f,\sigma,q_f)\mid\sigma\in\Sigma\rbrace$</li><li>$F’$ &#x3D; $F$</li></ul><p><img src="/notes/images/notes/uds/agv/2_3_eg.png"></p><h3 id="Explained-in-Human-language"><a href="#Explained-in-Human-language" class="headerlink" title="Explained in Human language"></a>Explained in Human language</h3><p>First, we add a <strong>fresh state</strong> $q_f$ the <em>set of state</em> $Q$ without changing the <em>initial</em> and <em>accepting</em> states.</p><p>A <em>complete Büchi Automaton</em> requires every states must have transitions for every letters in the alphabet.<br>So for each states orginally in $Q$, we construct new transitions that the letters are not yet used by the state.<br>(which is $\nexists q’ . (q,\sigma,q’)\in T$)</p><p>Finally, for all transitions from the fresh state are self transitioning, and they include all letters.<br>(which is $(q_f,\sigma,q_f)\mid\sigma\in\Sigma$)</p><h3 id="Formal-Proof"><a href="#Formal-Proof" class="headerlink" title="Formal Proof"></a>Formal Proof</h3><ul><li><p>The runs of $\mathcal{A’}$ are a <strong>superset</strong> of those of $\mathcal{A}$.</p><ul><li>During the construction of $\mathcal{A’}$, we have not removed any original transitions, but adding new fresh states.</li></ul></li><li><p>Furthermore, on <strong>any infinite input word</strong>, the accepting runs of $\mathcal{A}$ and $\mathcal{A’}$ are the same.</p><ul><li>If $\mathcal{A}$ accepts, $\mathcal{A’}$ also accepts because $\mathcal{A’}$ is a superset.</li><li>If a run reaches new fresh states $q_f$ stays in $q_f$ forever, and</li><li>since $q_f\notin F’$, such a run is not accepting.</li></ul></li></ul><h2 id="Summary"><a href="#Summary" class="headerlink" title="Summary"></a>Summary</h2><p>A <em>complete deterministic automaton</em> may be viewed as a <strong>total function</strong> from $\Sigma^\omega$ to $Q^\omega$.<br>A <em>complete (possibly nondeterministic) automaton</em> produces <strong>at least one run for every input word</strong>.</p><hr><p>Next chapter: <a href="../agv3-1/">Kleene’s Theorem</a></p><p>Further Reading: <a href="https://en.wikipedia.org/wiki/B%C3%BCchi_automaton">Büchi automaton</a>, <a href="https://en.wikipedia.org/wiki/Omega_language">Omega language</a></p>]]></content>
       
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -1242,6 +1330,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -1254,14 +1344,14 @@
       <link href="/notes/AGV/agv2-2/"/>
       <url>/notes/AGV/agv2-2/</url>
       
-        <content type="html"><![CDATA[<p>Previous chapter: <a href="../agv2-1/">Büchi automata (Preliminaries)</a></p><blockquote><p>This is a learning note of a course in <a href="https://cispa.de/de">CISPA</a>, UdS. Taught by Bernd Finkbeiner</p></blockquote><h2 id="2-2-Automata-over-Infinite-Words"><a href="#2-2-Automata-over-Infinite-Words" class="headerlink" title="2.2 Automata over Infinite Words"></a>2.2 Automata over Infinite Words</h2><p>The operational behavior of an automaton over infinite words is very similar to automaton over finite words:</p><ol><li>Start with an <em>initial state</em></li><li>Automaton constructs a <strong>run</strong> by reading one letter of the input alphabet at a time, and<br>transitioning to a successor <em>state</em> permitted by its <em>transitions</em>.</li></ol><p>The major difference between automata over finite and infinite words is the <strong>acceptance condition</strong>.</p><blockquote><p>$\textbf{Definition 2.1. } \text{ An } \textit{automaton over infinite words } \text{is a tuple }\mathcal{A} &#x3D; (\Sigma,Q,I,T,Acc)\text{, where}$<br>$\begin{array}{l}<br>\hspace{1cm} \cdot \ \Sigma \text{ is a finite } \textit{alphabet} \newline<br>\hspace{1cm} \cdot \ Q \text{ is a finite set of } \textit{states} \newline<br>\hspace{1cm} \cdot \ I \subseteq Q \text{ is a subset of } \textit{initial states} \newline<br>\hspace{1cm} \cdot \ T \subseteq Q \times \Sigma \times Q \text{ is a set of } \textit{transitions} \text{, and} \newline<br>\hspace{1cm} \cdot \ Acc \subseteq Q^\omega \text{ is the } \textit{accepting condition}<br>\end{array}$</p></blockquote><p>In the following, we refer an automaton over infinite words simply as an automaton.</p><h3 id="Runs-of-Buchi-automata"><a href="#Runs-of-Buchi-automata" class="headerlink" title="Runs of Büchi automata"></a>Runs of Büchi automata</h3><p>A run in a Büchi automaton has to transition infinitely many times, and starts with the initial state.</p><blockquote><p>$\textbf{Definition 2.2. }\text{ An }\textit{run }\text{of an automaton }\mathcal{A}\text{ on an infinite input word }\alpha\text{ is an }\newline\text{infinite sequence of states }r&#x3D;r(0)r(1)r(2)\dots\text{ such that the following hold:}\newline\begin{array}{l}\hspace{1cm} \cdot \ r(0)\in I\newline\hspace{1cm} \cdot \ \text{for all }i\in\mathbb{N},(r(i),\alpha(i),r(i+1))\in T\end{array}$</p></blockquote><p><a name="eg1"></a></p><h3 id="Example"><a href="#Example" class="headerlink" title="Example"></a>Example</h3><p>Below is a graphical representation of an automation over:</p><ul><li>alphabet $\Sigma &#x3D; \lbrace a,b\rbrace$, and with</li><li>set of states $Q &#x3D;\lbrace A,B,C,D\rbrace$,</li><li>initial set of states $I &#x3D;\lbrace A\rbrace$, and</li><li>set of transitions $T &#x3D;\lbrace (A,a,B),(B,a,C),(C,b,D),(D,b,A)\rbrace$</li></ul><p><img src="/notes/images/notes/uds/agv/2_1_eg.png"></p><p>On the infinite input word $aabbaabb\dots$, the (only) run of the automaton is $ABCDABCDABCD\dots$</p><h2 id="Deterministic-and-Complete-Automaton"><a href="#Deterministic-and-Complete-Automaton" class="headerlink" title="Deterministic and Complete Automaton"></a>Deterministic and Complete Automaton</h2><p>An automaton is <strong>deterministic</strong> if $|I|\leq 1$ and $\mid\lbrace (q,\sigma,q’)\in T \mid q’\in Q\rbrace|\leq 1$ for every $q\in Q$ and $\sigma\in\Sigma$.<br>Meaning that the automaton has <strong>exactly 1</strong> <em>initial state</em>, and <strong>exactly 1</strong> <em>transition</em> from $q$ to $q’$</p><p>An automaton is <strong>complete</strong> if $\mid\lbrace (q,\sigma,q’)\in T \mid q’\in Q\rbrace|\geq 1$ for every $q\in Q$.<br>Meaning that any two states $(q,q’)$ in the automaton should have <strong>at least 1</strong> transitions from $q$ to $q’$.</p><p>Therefore, the automaton in the example above is deterministic but not complete.</p><p>The transitions of an <em>deterministic and complete automata</em> are usually given as a function $\delta:Q \times\Sigma\rightarrow Q$.<br>Meaning that the set of all transitions $\delta$ contains <strong>any states</strong> with <strong>any letter</strong>.</p><h2 id="Accepted-Run"><a href="#Accepted-Run" class="headerlink" title="Accepted Run"></a>Accepted Run</h2><blockquote><p>$\textbf{Definition 2.3. } \text{ An automaton } \mathcal{A} \textit{ accepts}\text{ an infinite word }\alpha\text{ if: }$<br>$\begin{array}{l}<br>\hspace{1cm} \cdot \ \text{there is a run }r\text{ of }\mathcal{A}\text{ on }\alpha\text{, and}\newline<br>\hspace{1cm} \cdot \ r \text{ is } \textit{accepting}:r\in Acc\end{array}\newline<br>\text{The } \textit{language recognized }\text{by }\mathcal{A}\text{ is defined as follows: }<br>\mathcal{L}(\mathcal{A}) &#x3D; \lbrace \alpha\in\Sigma^\omega\mid\mathcal{A}\text{ accepts }\alpha\rbrace$</p></blockquote><p>We say two automata are <strong>equivalent</strong> if they have the same language.</p><hr><p>Next chapter: <a href="../agv2-3/"></a></p><p>Further Reading: <a href="https://en.wikipedia.org/wiki/B%C3%BCchi_automaton">Büchi automaton</a>, <a href="https://en.wikipedia.org/wiki/Omega_language">Omega language</a></p>]]></content>
+        <content type="html"><![CDATA[<p>Previous chapter: <a href="../agv2-1/">Büchi automata (Preliminaries)</a></p><blockquote><p>This is a learning note of a course in <a href="https://cispa.de/de">CISPA</a>, UdS. Taught by Bernd Finkbeiner</p></blockquote><h2 id="2-2-Automata-over-Infinite-Words"><a href="#2-2-Automata-over-Infinite-Words" class="headerlink" title="2.2 Automata over Infinite Words"></a>2.2 Automata over Infinite Words</h2><p>The operational behavior of an automaton over infinite words is very similar to automaton over finite words:</p><ol><li>Start with an <em>initial state</em></li><li>Automaton constructs a <strong>run</strong> by reading one letter of the input alphabet at a time, and<br>transitioning to a successor <em>state</em> permitted by its <em>transitions</em>.</li></ol><p>The major difference between automata over finite and infinite words is the <strong>acceptance condition</strong>.</p><blockquote><p>$\textbf{Definition 2.1. } \text{ An } \textit{automaton over infinite words } \text{is a tuple }\mathcal{A} &#x3D; (\Sigma,Q,I,T,Acc)\text{, where}$<br>$\begin{array}{l}<br>\hspace{1cm} \cdot \ \Sigma \text{ is a finite } \textit{alphabet} \newline<br>\hspace{1cm} \cdot \ Q \text{ is a finite set of } \textit{states} \newline<br>\hspace{1cm} \cdot \ I \subseteq Q \text{ is a subset of } \textit{initial states} \newline<br>\hspace{1cm} \cdot \ T \subseteq Q \times \Sigma \times Q \text{ is a set of } \textit{transitions} \text{, and} \newline<br>\hspace{1cm} \cdot \ Acc \subseteq Q^\omega \text{ is the } \textit{accepting condition}<br>\end{array}$</p></blockquote><p>In the following, we refer an automaton over infinite words simply as an automaton.</p><h3 id="Runs-of-Buchi-automata"><a href="#Runs-of-Buchi-automata" class="headerlink" title="Runs of Büchi automata"></a>Runs of Büchi automata</h3><p>A run in a Büchi automaton has to transition infinitely many times, and starts with the initial state.</p><blockquote><p>$\textbf{Definition 2.2. }\text{ An }\textit{run }\text{of an automaton }\mathcal{A}\text{ on an infinite input word }\alpha\text{ is an}$<br>$\text{infinite sequence of states }r&#x3D;r(0)r(1)r(2)\dots\text{ such that the following hold:}$<br>$\begin{array}{l}\hspace{1cm} \cdot \ r(0)\in I\newline\hspace{1cm} \cdot \ \text{for all }i\in\mathbb{N},(r(i),\alpha(i),r(i+1))\in T\end{array}$</p></blockquote><p><a name="eg1"></a></p><h3 id="Example"><a href="#Example" class="headerlink" title="Example"></a>Example</h3><p>Below is a graphical representation of an automation over:</p><ul><li>alphabet $\Sigma &#x3D; \lbrace a,b\rbrace$, and with</li><li>set of states $Q &#x3D;\lbrace A,B,C,D\rbrace$,</li><li>initial set of states $I &#x3D;\lbrace A\rbrace$, and</li><li>set of transitions $T &#x3D;\lbrace (A,a,B),(B,a,C),(C,b,D),(D,b,A)\rbrace$</li></ul><p><img src="/notes/images/notes/uds/agv/2_1_eg.png"></p><p>On the infinite input word $aabbaabb\dots$, the (only) run of the automaton is $ABCDABCDABCD\dots$</p><h2 id="Deterministic-and-Complete-Automaton"><a href="#Deterministic-and-Complete-Automaton" class="headerlink" title="Deterministic and Complete Automaton"></a>Deterministic and Complete Automaton</h2><p>An automaton is <strong>deterministic</strong> if $|I|\leq 1$ and $\mid\lbrace (q,\sigma,q’)\in T \mid q’\in Q\rbrace|\leq 1$ for every $q\in Q$ and $\sigma\in\Sigma$.<br>Meaning that the automaton has <strong>exactly 1</strong> <em>initial state</em>, and <strong>exactly 1</strong> <em>transition</em> from $q$ to $q’$</p><p>An automaton is <strong>complete</strong> if $\mid\lbrace (q,\sigma,q’)\in T \mid q’\in Q\rbrace|\geq 1$ for every $q\in Q$.<br>Meaning that any two states $(q,q’)$ in the automaton should have <strong>at least 1</strong> transitions from $q$ to $q’$.</p><p>Therefore, the automaton in the example above is deterministic but not complete.</p><p>The transitions of an <em>deterministic and complete automata</em> are usually given as a function $\delta:Q \times\Sigma\rightarrow Q$.<br>Meaning that the set of all transitions $\delta$ contains <strong>any states</strong> with <strong>any letter</strong>.</p><h2 id="Accepted-Run"><a href="#Accepted-Run" class="headerlink" title="Accepted Run"></a>Accepted Run</h2><blockquote><p>$\textbf{Definition 2.3. } \text{ An automaton } \mathcal{A} \textit{ accepts}\text{ an infinite word }\alpha\text{ if: }$<br>$\begin{array}{l}<br>\hspace{1cm} \cdot \ \text{there is a run }r\text{ of }\mathcal{A}\text{ on }\alpha\text{, and}\newline<br>\hspace{1cm} \cdot \ r \text{ is } \textit{accepting}:r\in Acc\end{array}$<br>$\text{The } \textit{language recognized }\text{by }\mathcal{A}\text{ is defined as follows: }<br>\mathcal{L}(\mathcal{A}) &#x3D; \lbrace \alpha\in\Sigma^\omega\mid\mathcal{A}\text{ accepts }\alpha\rbrace$</p></blockquote><p>We say two automata are <strong>equivalent</strong> if they have the same language.</p><hr><p>Next chapter: <a href="../agv2-3/">The Büchi Acceptance Condition</a></p><p>Further Reading: <a href="https://en.wikipedia.org/wiki/B%C3%BCchi_automaton">Büchi automaton</a>, <a href="https://en.wikipedia.org/wiki/Omega_language">Omega language</a></p>]]></content>
       
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -1269,6 +1359,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -1286,9 +1378,9 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -1296,6 +1388,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -1313,9 +1407,9 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -1323,6 +1417,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -1340,9 +1436,9 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -1350,6 +1446,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -1362,14 +1460,14 @@
       <link href="/notes/AGV/agv1-1/"/>
       <url>/notes/AGV/agv1-1/</url>
       
-        <content type="html"><![CDATA[<blockquote><p>This is a learning note of a course in <a href="https://cispa.de/de">CISPA</a>, UdS. Taught by Bernd Finkbeiner</p></blockquote><h2 id="Model-Checking"><a href="#Model-Checking" class="headerlink" title="Model Checking"></a>Model Checking</h2><p>Given a <strong>system model</strong>, we try to check whether it meets its <strong>specification</strong> <em>automatically</em> and <em>exhaustively</em>.<br>To describe&#x2F;represent the <strong>system</strong> and <strong>specification</strong>, we use <strong>Automata over infinite objects</strong>.</p><h3 id="Verification-Problem"><a href="#Verification-Problem" class="headerlink" title="Verification Problem"></a>Verification Problem</h3><p>The verification problem can be solved by:</p><blockquote><p>Constructing the <strong>intersection</strong> of system, with an automaton for the <strong>negation of the specification</strong>,<br>then checking whether the language of the resulting automaton is <strong>empty</strong>.</p></blockquote><p>$\textbf{Example 1.1. } \text{Consider the concurrent program }\small{\text{TURN}}:$<br>$$\text{local $t$: boolean where initially $t$ &#x3D; $false$}\newline<br>P_0::\left[ \begin{array}{l}\text{loop forever do}\newline<br>\hspace{1cm}\left[ \begin{array}{l}<br>\ell_0: \text{await }\neg t; \newline<br>\ell_1: \text{critical;} \newline<br>\ell_2: t :&#x3D; true; \newline<br>\end{array} \right]\end{array} \right]<br>\mid\mid P_1::\left[ \begin{array}{l}<br>\text{loop forever do}\newline<br>\hspace{1cm}\left[ \begin{array}{l}<br>m_0: \text{await } t; \newline<br>m_1: \text{critical;} \newline<br>m_2: t :&#x3D; false; \newline<br>\end{array} \right]\end{array} \right]$$</p><p>The example above is a simple solution to the <strong>mutual exclusion problem</strong>:<br>it ensures that at any given point of time, <strong>at most one</strong> process is in the critical region.</p><h3 id="From-Program-to-automaton"><a href="#From-Program-to-automaton" class="headerlink" title="From Program to automaton"></a>From Program to automaton</h3><p>To represent the above program using automaton, we need to define an <strong>alphabet $\Sigma$</strong>.</p><p>Firstly, we fix a set of <strong>atomic propositions (AP)</strong>, that is (potentially) relevant to the program states.<br>For the program in $\small{\text{Example 1.1}}$, $AP &#x3D; \lbrace\ell_0,\ell_1,\ell_2,m_0,m_1,m_2,t\rbrace$.<br>i.e. The present program location and the current value of $t$.</p><p>Then, we define the <strong>alphabet</strong> as $\Sigma &#x3D; 2^{AP}$, the set of subsets of $AP$.<br>An $AP$ is included in the subset if it is currently $true$.</p><p><img src="/notes/images/notes/uds/agv/1_1_turn.png"></p><p>This automaton is a <em><strong>safety automaton</strong></em>, it accepts all <strong>infinite repetitons</strong> of the sequence<br>$\lbrace\ell_0,m_0\rbrace \lbrace\ell_1,m_0\rbrace \lbrace\ell_2,m_0\rbrace \lbrace\ell_0,m_0,t\rbrace \lbrace\ell_0,m_2,t\rbrace$</p><h2 id="Automata-Verification"><a href="#Automata-Verification" class="headerlink" title="Automata Verification"></a>Automata Verification</h2><p>To verify $\small{\text{TURN}}$ satisfies the <strong>mutual exclusion</strong> property ($P_0$ and $P_1$ are never in $\ell_1$ and $m_1$ at the same time),<br>we build an automaton that <strong>represents the negation</strong> (eventually $P_0$ and $P_1$ are simultaneously in location 01):</p><p><img src="/notes/images/notes/uds/agv/1_1_neg.png"></p><p>This automaton is a <em><strong>Büchi automaton</strong></em> with accepting state $t_1$.</p><p>A <strong>word</strong> is accepted if $t_1$ is visited <strong>infinitely often</strong>.</p><p>For every word accepted by the <em>system automaton</em>, this <em>property automaton</em> stays in $t_0$ forever and therefore does not accept the word.<br>This means there does not exist an infinite sequence that <strong>generated by the program</strong>, and<br><strong>accepted by the negation automaton</strong> of the specification. In other words, $\small{\text{TURN}}$ is <strong>correct</strong>.</p><hr><p>Next post: <a href="../agv1-2/">Synthesis</a></p><p>Further Reading: <a href="https://en.wikipedia.org/wiki/B%C3%BCchi_automaton">Büchi automaton</a></p>]]></content>
+        <content type="html"><![CDATA[<blockquote><p>This is a learning note of a course in <a href="https://cispa.de/de">CISPA</a>, UdS. Taught by Bernd Finkbeiner</p></blockquote><h2 id="Model-Checking"><a href="#Model-Checking" class="headerlink" title="Model Checking"></a>Model Checking</h2><p>Given a <strong>system model</strong>, we try to check whether it meets its <strong>specification</strong> <em>automatically</em> and <em>exhaustively</em>.<br>To describe&#x2F;represent the <strong>system</strong> and <strong>specification</strong>, we use <strong>Automata over infinite objects</strong>.</p><h3 id="Verification-Problem"><a href="#Verification-Problem" class="headerlink" title="Verification Problem"></a>Verification Problem</h3><p>The verification problem can be solved by:</p><blockquote><p>Constructing the <strong>intersection</strong> of system, with an automaton for the <strong>negation of the specification</strong>,<br>then checking whether the language of the resulting automaton is <strong>empty</strong>.</p></blockquote><p>$\textbf{Example 1.1. } \text{Consider the concurrent program }\small{\text{TURN}}:$<br>$$\text{local }t:\text{boolean where initially }t &#x3D; false$$<br>$$P_0::\left[ \begin{array}{l}\text{loop forever do}\newline<br>\hspace{1cm}\left[ \begin{array}{l}<br>\ell_0: \text{await }\neg t; \newline<br>\ell_1: \text{critical;} \newline<br>\ell_2: t :&#x3D; true; \newline<br>\end{array} \right]\end{array} \right]<br>\mid\mid P_1::\left[ \begin{array}{l}<br>\text{loop forever do}\newline<br>\hspace{1cm}\left[ \begin{array}{l}<br>m_0: \text{await } t; \newline<br>m_1: \text{critical;} \newline<br>m_2: t :&#x3D; false; \newline<br>\end{array} \right]\end{array} \right]$$</p><p>The example above is a simple solution to the <strong>mutual exclusion problem</strong>:<br>it ensures that at any given point of time, <strong>at most one</strong> process is in the critical region.</p><h3 id="From-Program-to-automaton"><a href="#From-Program-to-automaton" class="headerlink" title="From Program to automaton"></a>From Program to automaton</h3><p>To represent the above program using automaton, we need to define an <strong>alphabet $\Sigma$</strong>.</p><p>Firstly, we fix a set of <strong>atomic propositions (AP)</strong>, that is (potentially) relevant to the program states.<br>For the program in $\small{\text{Example 1.1}}$, $AP &#x3D; \lbrace\ell_0,\ell_1,\ell_2,m_0,m_1,m_2,t\rbrace$.<br>i.e. The present program location and the current value of $t$.</p><p>Then, we define the <strong>alphabet</strong> as $\Sigma &#x3D; 2^{AP}$, the set of subsets of $AP$.<br>An $AP$ is included in the subset if it is currently $true$.</p><p><img src="/notes/images/notes/uds/agv/1_1_turn.png"></p><p>This automaton is a <em><strong>safety automaton</strong></em>, it accepts all <strong>infinite repetitons</strong> of the sequence<br>$\lbrace\ell_0,m_0\rbrace \lbrace\ell_1,m_0\rbrace \lbrace\ell_2,m_0\rbrace \lbrace\ell_0,m_0,t\rbrace \lbrace\ell_0,m_2,t\rbrace$</p><h2 id="Automata-Verification"><a href="#Automata-Verification" class="headerlink" title="Automata Verification"></a>Automata Verification</h2><p>To verify $\small{\text{TURN}}$ satisfies the <strong>mutual exclusion</strong> property ($P_0$ and $P_1$ are never in $\ell_1$ and $m_1$ at the same time),<br>we build an automaton that <strong>represents the negation</strong> (eventually $P_0$ and $P_1$ are simultaneously in location 01):</p><p><img src="/notes/images/notes/uds/agv/1_1_neg.png"></p><p>This automaton is a <em><strong>Büchi automaton</strong></em> with accepting state $t_1$.</p><p>A <strong>word</strong> is accepted if $t_1$ is visited <strong>infinitely often</strong>.</p><p>For every word accepted by the <em>system automaton</em>, this <em>property automaton</em> stays in $t_0$ forever and therefore does not accept the word.<br>This means there does not exist an infinite sequence that <strong>generated by the program</strong>, and<br><strong>accepted by the negation automaton</strong> of the specification. In other words, $\small{\text{TURN}}$ is <strong>correct</strong>.</p><hr><p>Next post: <a href="../agv1-2/">Synthesis</a></p><p>Further Reading: <a href="https://en.wikipedia.org/wiki/B%C3%BCchi_automaton">Büchi automaton</a></p>]]></content>
       
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> AGV </category>
           
       </categories>
       
@@ -1377,6 +1475,8 @@
         <tags>
             
             <tag> AGV </tag>
+            
+            <tag> UdS </tag>
             
         </tags>
       
@@ -1396,7 +1496,7 @@
           
           <category> LeetCode </category>
           
-          <category> SQL_50 </category>
+          <category> SQL 50 </category>
           
       </categories>
       
@@ -1423,7 +1523,7 @@
           
           <category> LeetCode </category>
           
-          <category> SQL_50 </category>
+          <category> SQL 50 </category>
           
       </categories>
       
@@ -1450,7 +1550,7 @@
           
           <category> LeetCode </category>
           
-          <category> SQL_50 </category>
+          <category> SQL 50 </category>
           
       </categories>
       
@@ -1477,7 +1577,7 @@
           
           <category> LeetCode </category>
           
-          <category> SQL_50 </category>
+          <category> SQL 50 </category>
           
       </categories>
       
@@ -1504,7 +1604,7 @@
           
           <category> LeetCode </category>
           
-          <category> SQL_50 </category>
+          <category> SQL 50 </category>
           
       </categories>
       
@@ -1531,7 +1631,7 @@
           
           <category> LeetCode </category>
           
-          <category> SQL_50 </category>
+          <category> SQL 50 </category>
           
       </categories>
       
@@ -1558,7 +1658,7 @@
           
           <category> LeetCode </category>
           
-          <category> SQL_50 </category>
+          <category> SQL 50 </category>
           
       </categories>
       
@@ -1585,7 +1685,7 @@
           
           <category> LeetCode </category>
           
-          <category> SQL_50 </category>
+          <category> SQL 50 </category>
           
       </categories>
       
@@ -1612,7 +1712,7 @@
           
           <category> LeetCode </category>
           
-          <category> SQL_50 </category>
+          <category> SQL 50 </category>
           
       </categories>
       
@@ -1639,7 +1739,7 @@
           
           <category> LeetCode </category>
           
-          <category> SQL_50 </category>
+          <category> SQL 50 </category>
           
       </categories>
       
@@ -1666,7 +1766,7 @@
           
           <category> LeetCode </category>
           
-          <category> SQL_50 </category>
+          <category> SQL 50 </category>
           
       </categories>
       
@@ -1693,7 +1793,7 @@
           
           <category> LeetCode </category>
           
-          <category> SQL_50 </category>
+          <category> SQL 50 </category>
           
       </categories>
       
@@ -1720,7 +1820,7 @@
           
           <category> LeetCode </category>
           
-          <category> SQL_50 </category>
+          <category> SQL 50 </category>
           
       </categories>
       
@@ -1747,7 +1847,7 @@
           
           <category> LeetCode </category>
           
-          <category> SQL_50 </category>
+          <category> SQL 50 </category>
           
       </categories>
       
@@ -1774,7 +1874,7 @@
           
           <category> LeetCode </category>
           
-          <category> SQL_50 </category>
+          <category> SQL 50 </category>
           
       </categories>
       
@@ -1801,7 +1901,7 @@
           
           <category> LeetCode </category>
           
-          <category> SQL_50 </category>
+          <category> SQL 50 </category>
           
       </categories>
       
@@ -1828,7 +1928,7 @@
           
           <category> LeetCode </category>
           
-          <category> SQL_50 </category>
+          <category> SQL 50 </category>
           
       </categories>
       
@@ -1855,7 +1955,7 @@
           
           <category> Cantonese </category>
           
-          <category> Full_Course </category>
+          <category> Full Course </category>
           
       </categories>
       
@@ -1886,7 +1986,7 @@
           
           <category> Cantonese </category>
           
-          <category> Full_Course </category>
+          <category> Full Course </category>
           
       </categories>
       
@@ -1917,7 +2017,7 @@
           
           <category> Cantonese </category>
           
-          <category> Full_Course </category>
+          <category> Full Course </category>
           
       </categories>
       
@@ -1948,7 +2048,7 @@
           
           <category> Cantonese </category>
           
-          <category> Full_Course </category>
+          <category> Full Course </category>
           
       </categories>
       
@@ -1979,7 +2079,7 @@
           
           <category> Cantonese </category>
           
-          <category> Full_Course </category>
+          <category> Full Course </category>
           
       </categories>
       
@@ -2010,7 +2110,7 @@
           
           <category> Cantonese </category>
           
-          <category> Full_Course </category>
+          <category> Full Course </category>
           
       </categories>
       
@@ -2039,14 +2139,16 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> PV </category>
           
       </categories>
       
       
         <tags>
+            
+            <tag> UdS </tag>
             
             <tag> PV </tag>
             
@@ -2068,14 +2170,16 @@
       
       <categories>
           
-          <category> Notes </category>
+          <category> UdS Notes </category>
           
-          <category> UdS </category>
+          <category> PV </category>
           
       </categories>
       
       
         <tags>
+            
+            <tag> UdS </tag>
             
             <tag> PV </tag>
             
