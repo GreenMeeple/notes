@@ -6,7 +6,7 @@
   <link href="https://greenmeeple.github.io/atom.xml" rel="self"/>
   
   <link href="https://greenmeeple.github.io/"/>
-  <updated>2025-05-15T00:02:16.847Z</updated>
+  <updated>2025-05-15T15:42:48.736Z</updated>
   <id>https://greenmeeple.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://greenmeeple.github.io/AGV/agv/"/>
     <id>https://greenmeeple.github.io/AGV/agv/</id>
     <published>2025-04-22T14:35:16.000Z</published>
-    <updated>2025-05-15T00:02:16.847Z</updated>
+    <updated>2025-05-15T15:42:48.736Z</updated>
     
     
     <summary type="html">&lt;blockquote&gt;
@@ -35,15 +35,15 @@
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;&lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;&lt;a href=&quot;../../../Notes/AGV/agv1-1/&quot;&gt;1.1. Model Checking&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;&lt;a href=&quot;../../../notes/AGV/agv1-1/&quot;&gt;1.1. Model Checking&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;&lt;a href=&quot;../../../Notes/AGV/agv1-2/&quot;&gt;1.2. Synthesis&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;&lt;a href=&quot;../../../notes/AGV/agv1-2/&quot;&gt;1.2. Synthesis&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;&lt;a href=&quot;../../../Notes/AGV/agv1-3/&quot;&gt;1.3. The Logic-Automata Connection&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;&lt;a href=&quot;../../../notes/AGV/agv1-3/&quot;&gt;1.3. The Logic-Automata Connection&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;&lt;/table&gt;
@@ -55,15 +55,15 @@
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;&lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;&lt;a href=&quot;../../../Notes/AGV/agv2-1/&quot;&gt;2.1. Preliminaries&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;&lt;a href=&quot;../../../notes/AGV/agv2-1/&quot;&gt;2.1. Preliminaries&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;&lt;a href=&quot;../../../Notes/AGV/agv2-2/&quot;&gt;2.2. Automata over Infinite Words&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;&lt;a href=&quot;../../../notes/AGV/agv2-2/&quot;&gt;2.2. Automata over Infinite Words&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;&lt;a href=&quot;../../../Notes/AGV/agv2-3/&quot;&gt;2.3. The Büchi Acceptance Condition&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;&lt;a href=&quot;../../../notes/AGV/agv2-3/&quot;&gt;2.3. The Büchi Acceptance Condition&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;&lt;/table&gt;
@@ -75,23 +75,23 @@
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;&lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;&lt;a href=&quot;../../../Notes/AGV/agv3-1/&quot;&gt;3.1. Kleene’s Theorem&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;&lt;a href=&quot;../../../notes/AGV/agv3-1/&quot;&gt;3.1. Kleene’s Theorem&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;&lt;a href=&quot;../../../Notes/AGV/agv3-2/&quot;&gt;3.2. $&#92;omega$-regular language&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;&lt;a href=&quot;../../../notes/AGV/agv3-2/&quot;&gt;3.2. $&#92;omega$-regular language&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;&lt;a href=&quot;../../../Notes/AGV/agv3-3/&quot;&gt;3.3 Closure Properties of the Büchi-recognizable languages (Intersection and Union)&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;&lt;a href=&quot;../../../notes/AGV/agv3-3/&quot;&gt;3.3 Closure Properties of the Büchi-recognizable languages (Intersection and Union)&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;&lt;a href=&quot;../../../Notes/AGV/agv3-4/&quot;&gt;3.4 Closure Properties of the Büchi-recognizable languages (Concatenations)&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;&lt;a href=&quot;../../../notes/AGV/agv3-4/&quot;&gt;3.4 Closure Properties of the Büchi-recognizable languages (Concatenations)&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;&lt;a href=&quot;../../../Notes/AGV/agv3-5/&quot;&gt;3.5 Büchi’s Characterization Theorem&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;&lt;a href=&quot;../../../notes/AGV/agv3-5/&quot;&gt;3.5 Büchi’s Characterization Theorem&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;&lt;/table&gt;
@@ -103,11 +103,11 @@
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;&lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;&lt;a href=&quot;../../../Notes/AGV/agv4-1/&quot;&gt;4.1. Deterministic vs. Nondeterministic Büchi Automata&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;&lt;a href=&quot;../../../notes/AGV/agv4-1/&quot;&gt;4.1. Deterministic vs. Nondeterministic Büchi Automata&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;&lt;a href=&quot;../../../Notes/AGV/agv4-2/&quot;&gt;4.2. Complementation of deterministic Büchi Automata&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;&lt;a href=&quot;../../../notes/AGV/agv4-2/&quot;&gt;4.2. Complementation of deterministic Büchi Automata&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;&lt;/table&gt;
@@ -131,14 +131,14 @@
     <link href="https://greenmeeple.github.io/AGV/agv12-3/"/>
     <id>https://greenmeeple.github.io/AGV/agv12-3/</id>
     <published>2025-02-16T19:12:54.000Z</published>
-    <updated>2025-05-15T15:34:04.225Z</updated>
+    <updated>2025-05-15T15:42:48.677Z</updated>
     
     
-    <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../Notes/AGV/agv12-2/&quot;&gt;Emptiness Game&lt;/a&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../notes/AGV/agv12-2/&quot;&gt;Emptiness Game&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;This is a learning note of a course in &lt;a href=&quot;https://cispa.de/de&quot;&gt;CISPA&lt;/a&gt;, UdS. Taught by Bernd Finkbeiner&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h2 id=&quot;Introduction&quot;&gt;&lt;a href=&quot;#Introduction&quot; class=&quot;headerlink&quot; title=&quot;Introduction&quot;&gt;&lt;/a&gt;Introduction&lt;/h2&gt;&lt;p&gt;We now prove that parity tree automata are closed under complementation. As discussed at the beginning of the section, our proof makes heavy use of the determinacy of parity games (with infinite game arenas) established in &lt;a href=&quot;../../../Notes/AGV/agv11-4&quot;&gt;Theorem 11.3&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;Introduction&quot;&gt;&lt;a href=&quot;#Introduction&quot; class=&quot;headerlink&quot; title=&quot;Introduction&quot;&gt;&lt;/a&gt;Introduction&lt;/h2&gt;&lt;p&gt;We now prove that parity tree automata are closed under complementation. As discussed at the beginning of the section, our proof makes heavy use of the determinacy of parity games (with infinite game arenas) established in &lt;a href=&quot;../../../notes/AGV/agv11-4&quot;&gt;Theorem 11.3&lt;/a&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;$&#92;textbf{Theorem 12.3. } &#92;textit{For every parity tree automaton }&#92;mathcal{A}&#92;textit{ over }&#92;Sigma&#92;textit{ there is a parity tree automaton }&#92;mathcal{A}’$ $&#92;textit{ with }&#92;mathcal{L(A’)}&amp;#x3D;&#92;mathcal{T}_&#92;Sigma&#92;setminus&#92;mathcal{L(A)}.$&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -165,10 +165,10 @@
     <link href="https://greenmeeple.github.io/AGV/agv12-2/"/>
     <id>https://greenmeeple.github.io/AGV/agv12-2/</id>
     <published>2025-02-16T18:11:08.000Z</published>
-    <updated>2025-05-15T15:33:48.665Z</updated>
+    <updated>2025-05-15T15:42:48.677Z</updated>
     
     
-    <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../Notes/AGV/agv12-1/&quot;&gt;Tree Automata and Acceptance Game&lt;/a&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../notes/AGV/agv12-1/&quot;&gt;Tree Automata and Acceptance Game&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;This is a learning note of a course in &lt;a href=&quot;https://cispa.de/de&quot;&gt;CISPA&lt;/a&gt;, UdS. Taught by Bernd Finkbeiner&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -204,15 +204,15 @@
     <link href="https://greenmeeple.github.io/AGV/agv12-1/"/>
     <id>https://greenmeeple.github.io/AGV/agv12-1/</id>
     <published>2025-02-15T23:21:11.000Z</published>
-    <updated>2025-05-15T15:39:10.826Z</updated>
+    <updated>2025-05-15T15:42:48.676Z</updated>
     
     
-    <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../Notes/AGV/agv11-6/&quot;&gt;A Remark on Undetermined Games&lt;/a&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../notes/AGV/agv11-6/&quot;&gt;A Remark on Undetermined Games&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;This is a learning note of a course in &lt;a href=&quot;https://cispa.de/de&quot;&gt;CISPA&lt;/a&gt;, UdS. Taught by Bernd Finkbeiner&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id=&quot;Introduction&quot;&gt;&lt;a href=&quot;#Introduction&quot; class=&quot;headerlink&quot; title=&quot;Introduction&quot;&gt;&lt;/a&gt;Introduction&lt;/h2&gt;&lt;p&gt;Infinite games allow us to reason elegantly about infinite trees. A famous example of an argument that became significantly simpler with the introduction of game-theoretic ideas is the proof of &lt;strong&gt;Rabin’s theorem&lt;/strong&gt;. &lt;/p&gt;
-&lt;p&gt;Rabin’s theorem states that the satisfiability of &lt;strong&gt;monadic second-order logic with two successors (S2S)&lt;/strong&gt; is decidable. Like in &lt;a href=&quot;../../../Notes/AGV/agv6-5/&quot;&gt;Section 6&lt;/a&gt;, where we showed that S1S formulas can be translated to automata, we will show that S2S formulas can be translated to automata, this time, in order to accommodate more than one successor function, to automata over infinite trees. &lt;/p&gt;
+&lt;p&gt;Rabin’s theorem states that the satisfiability of &lt;strong&gt;monadic second-order logic with two successors (S2S)&lt;/strong&gt; is decidable. Like in &lt;a href=&quot;../../../notes/AGV/agv6-5/&quot;&gt;Section 6&lt;/a&gt;, where we showed that S1S formulas can be translated to automata, we will show that S2S formulas can be translated to automata, this time, in order to accommodate more than one successor function, to automata over infinite trees. &lt;/p&gt;
 &lt;p&gt;The most difficult part of the proof of Rabin’s theorem is to show that tree automata are &lt;em&gt;closed under complement&lt;/em&gt;. The original proof was purely combinatorial (and very difficult to understand), but the game-theoretic argument is simply based on &lt;strong&gt;the determinacy of the acceptance game of the tree automaton&lt;/strong&gt;:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;the acceptance of a tree by a tree automaton &amp;#x3D; the existence of a winning strategy for Player 0,&lt;/p&gt;
@@ -221,7 +221,7 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;We can therefore complement the language of a given tree automaton by constructing a new automaton that verifies the existence of a winning strategy for Player 1. We begin this section with a discussion of tree automata. The logic S2S and the translation to tree automata will be introduced later in the section.&lt;/p&gt;
-&lt;h2 id=&quot;Tree-Automata&quot;&gt;&lt;a href=&quot;#Tree-Automata&quot; class=&quot;headerlink&quot; title=&quot;Tree Automata&quot;&gt;&lt;/a&gt;Tree Automata&lt;/h2&gt;&lt;p&gt;We consider tree automata over infinite binary trees. We use the notation for trees introduced in &lt;a href=&quot;../../../Notes/AGV/agv7-1/&quot;&gt;Section 7.1&lt;/a&gt;. The (full) binary tree is the language $&#92;mathcal{T} &amp;#x3D;&#92;lbrace 0, 1&#92;rbrace^&#92;ast$. For an alphabet $&#92;Sigma, &#92;mathcal{T}_&#92;Sigma &amp;#x3D; &#92;lbrace(&#92;mathcal{T}, t)&#92;mid t:&#92;mathcal{T}&#92;rightarrow&#92;Sigma&#92;rbrace$ is the set of all binary $&#92;Sigma$-labeled trees.&lt;/p&gt;</summary>
+&lt;h2 id=&quot;Tree-Automata&quot;&gt;&lt;a href=&quot;#Tree-Automata&quot; class=&quot;headerlink&quot; title=&quot;Tree Automata&quot;&gt;&lt;/a&gt;Tree Automata&lt;/h2&gt;&lt;p&gt;We consider tree automata over infinite binary trees. We use the notation for trees introduced in &lt;a href=&quot;../../../notes/AGV/agv7-1/&quot;&gt;Section 7.1&lt;/a&gt;. The (full) binary tree is the language $&#92;mathcal{T} &amp;#x3D;&#92;lbrace 0, 1&#92;rbrace^&#92;ast$. For an alphabet $&#92;Sigma, &#92;mathcal{T}_&#92;Sigma &amp;#x3D; &#92;lbrace(&#92;mathcal{T}, t)&#92;mid t:&#92;mathcal{T}&#92;rightarrow&#92;Sigma&#92;rbrace$ is the set of all binary $&#92;Sigma$-labeled trees.&lt;/p&gt;</summary>
     
     
     
@@ -241,14 +241,14 @@
     <link href="https://greenmeeple.github.io/AGV/agv11-6/"/>
     <id>https://greenmeeple.github.io/AGV/agv11-6/</id>
     <published>2025-02-15T12:55:54.000Z</published>
-    <updated>2025-05-15T00:02:16.866Z</updated>
+    <updated>2025-05-15T15:42:48.679Z</updated>
     
     
-    <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../Notes/AGV/agv11-5/&quot;&gt;Muller Games&lt;/a&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../notes/AGV/agv11-5/&quot;&gt;Muller Games&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;This is a learning note of a course in &lt;a href=&quot;https://cispa.de/de&quot;&gt;CISPA&lt;/a&gt;, UdS. Taught by Bernd Finkbeiner&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Since we have shown that &lt;a href=&quot;../../../Notes/AGV/agv11-2/&quot;&gt;reachability&lt;/a&gt;, &lt;a href=&quot;../../../Notes/AGV/agv11-3/&quot;&gt;Büchi&lt;/a&gt;, &lt;a href=&quot;../../../Notes/AGV/agv11-4/&quot;&gt;parity&lt;/a&gt;, and &lt;a href=&quot;../../../Notes/AGV/agv11-5/&quot;&gt;Muller&lt;/a&gt; games are all &lt;strong&gt;determined&lt;/strong&gt;, it might seem as if all games were determined. The purpose of this last subsection is to remark that this is not the case. By definition, every play is either won by Player 0 or by Player 1; however, it is entirely possible that neither Player 0 nor Player 1 has a winning strategy.&lt;/p&gt;
+&lt;p&gt;Since we have shown that &lt;a href=&quot;../../../notes/AGV/agv11-2/&quot;&gt;reachability&lt;/a&gt;, &lt;a href=&quot;../../../notes/AGV/agv11-3/&quot;&gt;Büchi&lt;/a&gt;, &lt;a href=&quot;../../../notes/AGV/agv11-4/&quot;&gt;parity&lt;/a&gt;, and &lt;a href=&quot;../../../notes/AGV/agv11-5/&quot;&gt;Muller&lt;/a&gt; games are all &lt;strong&gt;determined&lt;/strong&gt;, it might seem as if all games were determined. The purpose of this last subsection is to remark that this is not the case. By definition, every play is either won by Player 0 or by Player 1; however, it is entirely possible that neither Player 0 nor Player 1 has a winning strategy.&lt;/p&gt;
 &lt;p&gt;We will construct a game with a winning condition that allows the players to &lt;em&gt;steal&lt;/em&gt; strategies in the sense that if Player i has a winning strategy σ, then Player 1−$i$ has a strategy $&#92;tau$ that mimicks $&#92;sigma$ so that the play resulting from strategies σ and τ is won by Player 1-$i$: hence, strategy $&#92;sigma$ is not winning after all! &lt;/p&gt;
 &lt;p&gt;We fix the alphabet $&#92;mathbb{B}&amp;#x3D;&#92;lbrace 0,1&#92;rbrace$. To define the winning condition, we introduce an &lt;em&gt;infinite&lt;/em&gt; $&#92;text{XOR}$ &lt;em&gt;function&lt;/em&gt; $f$. An infinite $&#92;text{XOR}$ function is a function $f:&#92;mathbb{B}^&#92;omega&#92;rightarrow&#92;mathbb{B}$ such that $f(&#92;alpha)&#92;neq f(&#92;beta)$ for all α, β ∈ B ω that have the exact same letter in every position except for exactly one position where they have different letters. &lt;/p&gt;
 &lt;p&gt;To see that such a function exists, define an equivalence relation $&#92;sim$ such that $&#92;alpha&#92;sim&#92;beta$ iff there exists a position $n&#92;in&#92;mathbb{N}$ such that $&#92;alpha(i)&amp;#x3D;&#92;beta(i)$ for all $i&#92;geq n$. Let $S&#92;subseteq&#92;mathbb{B}^&#92;omega$ be a set that contains exactly one element from each $&#92;sim$-equivalence class, and let $r(&#92;alpha)$ be the unique $&#92;beta&#92;in S$ such that $&#92;alpha&#92;sim&#92;beta$. For every $&#92;alpha&#92;in&#92;mathbb{B}^&#92;omega$, the two sequences $&#92;alpha$ and $r(&#92;alpha)$ differ only in a finite number of positions. We define $f(&#92;alpha)&amp;#x3D;0$ if this number is even and $f(&#92;alpha)&amp;#x3D;1$ if it is odd. Hence, $f$ is indeed an infinite $&#92;text{XOR}$ function: if two sequences $&#92;alpha,&#92;beta&#92;in&#92;mathbb{B}^&#92;omega$ differ in exactly one position, then $f(&#92;alpha)&#92;neq f(&#92;beta)$. &lt;/p&gt;
@@ -275,15 +275,15 @@
     <link href="https://greenmeeple.github.io/AGV/agv11-5/"/>
     <id>https://greenmeeple.github.io/AGV/agv11-5/</id>
     <published>2025-02-13T17:01:42.000Z</published>
-    <updated>2025-05-15T15:39:10.825Z</updated>
+    <updated>2025-05-15T15:42:48.675Z</updated>
     
     
-    <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../Notes/AGV/agv11-4/&quot;&gt;Parity Games&lt;/a&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../notes/AGV/agv11-4/&quot;&gt;Parity Games&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;This is a learning note of a course in &lt;a href=&quot;https://cispa.de/de&quot;&gt;CISPA&lt;/a&gt;, UdS. Taught by Bernd Finkbeiner&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Muller games differ from the games we have studied so far in that they are not memoryless determined. Consider, for example, a game arena consisting of three positions $v_0,v_1,v_2$, such that there are edges from $v_0$ and $v_2$ to $v_1$ and from $v_1$ to $v_0$ and $v_2$. Hence, the only choice in the game is in $v_1$, where Player 0 gets to choose between moving to $v_0$ or $v_2$:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/notes/../../../Notes/images/uds_notes/agv/11_5_muller.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/notes/../../../notes/images/uds_notes/agv/11_5_muller.png&quot;&gt;&lt;/p&gt;
 &lt;p&gt;The Muller condition $&#92;mathcal{F}&amp;#x3D;&#92;lbrace&#92;lbrace v_0,v_1,v_2&#92;rbrace&#92;rbrace$ is only satisfied if all three positions are visited infinitely often. Player 0 can therefore not win the game with a memoryless strategy, because such a strategy would either visit $v_0$ and $v_1$ infinitely often, or $v_1$ and $v_2$, but not all three positions.  &lt;/p&gt;
 &lt;p&gt;There is, however, a memoryful winning strategy: simply alternate between moving from $v_1$ to $v_0$ and to $v_2$.&lt;/p&gt;
 &lt;p&gt;In the following, we solve Muller games via a reduction to parity games, i.e., we define a parity game such that we can translate the winning strategy in the parity game into a winning strategy in the Muller game.&lt;/p&gt;
@@ -310,10 +310,10 @@
     <link href="https://greenmeeple.github.io/AGV/agv11-4/"/>
     <id>https://greenmeeple.github.io/AGV/agv11-4/</id>
     <published>2025-02-13T09:24:29.000Z</published>
-    <updated>2025-05-15T15:39:10.825Z</updated>
+    <updated>2025-05-15T15:42:48.672Z</updated>
     
     
-    <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../Notes/AGV/agv11-3/&quot;&gt;Büchi Games&lt;/a&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../notes/AGV/agv11-3/&quot;&gt;Büchi Games&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;This is a learning note of a course in &lt;a href=&quot;https://cispa.de/de&quot;&gt;CISPA&lt;/a&gt;, UdS. Taught by Bernd Finkbeiner&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -323,7 +323,7 @@
 &lt;p&gt;$&#92;textbf{Definition 11.10. }&#92;text{The }&#92;textit{parity condition }&#92;small&#92;text{PARITY} &#92;normalsize(C)&#92;text{ for a coloring function }c:V&#92;rightarrow&#92;mathbb{N}&#92;text{ is the set}$&lt;br&gt;$$&#92;small&#92;text{PARITY} &#92;normalsize(C)&amp;#x3D;&#92;lbrace&#92;alpha&#92;in V^&#92;omega&#92;mid&#92;text{max}&#92;lbrace c(q)&#92;mid q&#92;in&#92;text{Inf}(&#92;alpha)&#92;rbrace&#92;text{is even}&#92;rbrace.$$&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;The parity condition is satisfied if the biggest number $q$ of the coloring function is even, among all positions that are visited infinitely often.&lt;/p&gt;
-&lt;h3 id=&quot;Example&quot;&gt;&lt;a href=&quot;#Example&quot; class=&quot;headerlink&quot; title=&quot;Example&quot;&gt;&lt;/a&gt;Example&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;/notes/../../../Notes/images/uds_notes/agv/11_4_parity.png&quot;&gt;&lt;/p&gt;</summary>
+&lt;h3 id=&quot;Example&quot;&gt;&lt;a href=&quot;#Example&quot; class=&quot;headerlink&quot; title=&quot;Example&quot;&gt;&lt;/a&gt;Example&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;/notes/../../../notes/images/uds_notes/agv/11_4_parity.png&quot;&gt;&lt;/p&gt;</summary>
     
     
     
@@ -343,10 +343,10 @@
     <link href="https://greenmeeple.github.io/AGV/agv11-3/"/>
     <id>https://greenmeeple.github.io/AGV/agv11-3/</id>
     <published>2025-02-12T23:27:50.000Z</published>
-    <updated>2025-05-15T15:39:10.833Z</updated>
+    <updated>2025-05-15T15:42:48.701Z</updated>
     
     
-    <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../Notes/AGV/agv11-2/&quot;&gt;Reachability Games&lt;/a&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../notes/AGV/agv11-2/&quot;&gt;Reachability Games&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;This is a learning note of a course in &lt;a href=&quot;https://cispa.de/de&quot;&gt;CISPA&lt;/a&gt;, UdS. Taught by Bernd Finkbeiner&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -378,10 +378,10 @@
     <link href="https://greenmeeple.github.io/AGV/agv11-2/"/>
     <id>https://greenmeeple.github.io/AGV/agv11-2/</id>
     <published>2025-02-11T19:48:34.000Z</published>
-    <updated>2025-05-15T15:39:10.833Z</updated>
+    <updated>2025-05-15T15:42:48.679Z</updated>
     
     
-    <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../Notes/AGV/agv11-1/&quot;&gt;Infinite Games (Basic Definitions)&lt;/a&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../notes/AGV/agv11-1/&quot;&gt;Infinite Games (Basic Definitions)&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;This is a learning note of a course in &lt;a href=&quot;https://cispa.de/de&quot;&gt;CISPA&lt;/a&gt;, UdS. Taught by Bernd Finkbeiner&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -392,7 +392,7 @@
 &lt;p&gt;$$ &#92;small&#92;text{REACH} &#92;normalsize(R) &amp;#x3D; &#92;lbrace&#92;rho&#92;in V^&#92;omega&#92;mid&#92;text{Occ}(&#92;rho)&#92;cap R&#92;neq&#92;varnothing&#92;rbrace$$&lt;br&gt;$$&#92;text{A game }&#92;mathcal{G}&amp;#x3D;(&#92;mathcal{A},&#92;text{Win})&#92;text{ with Win}&amp;#x3D;&#92;small&#92;text{REACH} &#92;normalsize(R)&#92;text{ is called a }&#92;textit{reachability game}&#92;text{ with reachability set }R $$&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h3 id=&quot;Example&quot;&gt;&lt;a href=&quot;#Example&quot; class=&quot;headerlink&quot; title=&quot;Example&quot;&gt;&lt;/a&gt;Example&lt;/h3&gt;&lt;p&gt;$$&lt;br&gt;&#92;text{Position of Player 0: Circles;}&#92; &#92; &#92;text{Positions of Player 1: rectangles.}$$ &lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/notes/../../../Notes/images/uds_notes/agv/11_2_reachability.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/notes/../../../notes/images/uds_notes/agv/11_2_reachability.png&quot;&gt;&lt;/p&gt;
 &lt;p&gt;$$&#92;mathcal{G}&amp;#x3D;(&#92;mathcal{A},&#92;small&#92;text{REACH} &#92;normalsize(R)),&#92; R&amp;#x3D;&#92;lbrace v_4,v_5&#92;rbrace&lt;br&gt;$$&lt;/p&gt;</summary>
     
     
@@ -413,14 +413,14 @@
     <link href="https://greenmeeple.github.io/AGV/agv11-1/"/>
     <id>https://greenmeeple.github.io/AGV/agv11-1/</id>
     <published>2025-02-11T16:11:48.000Z</published>
-    <updated>2025-05-15T15:22:35.199Z</updated>
+    <updated>2025-05-15T15:42:48.703Z</updated>
     
     
-    <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../Notes/AGV/agv10-5/&quot;&gt;From semi-deterministic Büchi to deterministic Muller&lt;/a&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../notes/AGV/agv10-5/&quot;&gt;From semi-deterministic Büchi to deterministic Muller&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;This is a learning note of a course in &lt;a href=&quot;https://cispa.de/de&quot;&gt;CISPA&lt;/a&gt;, UdS. Taught by Bernd Finkbeiner&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h2 id=&quot;Introduction&quot;&gt;&lt;a href=&quot;#Introduction&quot; class=&quot;headerlink&quot; title=&quot;Introduction&quot;&gt;&lt;/a&gt;Introduction&lt;/h2&gt;&lt;p&gt;We now introduce &lt;em&gt;infinite two-player games on finite graphs&lt;/em&gt;. Infinite games are useful to solve the synthesis problem, where we are interested in finding a strategy that guarantees that a given specification is satisfied (cf. &lt;a href=&quot;../../../Notes/AGV/agv1.2/&quot;&gt;Section 1.2&lt;/a&gt;). As we will see, games also play a fundamental role in automata theory, in particular for automata over infinite trees.&lt;/p&gt;
+&lt;h2 id=&quot;Introduction&quot;&gt;&lt;a href=&quot;#Introduction&quot; class=&quot;headerlink&quot; title=&quot;Introduction&quot;&gt;&lt;/a&gt;Introduction&lt;/h2&gt;&lt;p&gt;We now introduce &lt;em&gt;infinite two-player games on finite graphs&lt;/em&gt;. Infinite games are useful to solve the synthesis problem, where we are interested in finding a strategy that guarantees that a given specification is satisfied (cf. &lt;a href=&quot;../../../notes/AGV/agv1.2/&quot;&gt;Section 1.2&lt;/a&gt;). As we will see, games also play a fundamental role in automata theory, in particular for automata over infinite trees.&lt;/p&gt;
 &lt;h2 id=&quot;Basic-Definitions&quot;&gt;&lt;a href=&quot;#Basic-Definitions&quot; class=&quot;headerlink&quot; title=&quot;Basic Definitions&quot;&gt;&lt;/a&gt;Basic Definitions&lt;/h2&gt;&lt;p&gt;The game is played on a graph, called the &lt;strong&gt;arena&lt;/strong&gt;. The vertices of the graph are called &lt;strong&gt;positions&lt;/strong&gt; and are partitioned into the positions of Player 0 and the positions of Player 1. &lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;A play of the game starts in some initial position&lt;/li&gt;
@@ -454,14 +454,14 @@
     <link href="https://greenmeeple.github.io/AGV/agv10-5/"/>
     <id>https://greenmeeple.github.io/AGV/agv10-5/</id>
     <published>2025-02-11T07:41:39.000Z</published>
-    <updated>2025-05-15T00:02:16.868Z</updated>
+    <updated>2025-05-15T15:42:48.679Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../Notes/AGV/agv10-4/&quot;&gt;Semi-Deterministic Büchi Automata&lt;/a&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../notes/AGV/agv10-4/&quot;&gt;Semi-Deterministic Büchi Automata&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;This is a learning</summary>
         
@@ -485,10 +485,10 @@
     <link href="https://greenmeeple.github.io/AGV/agv10-4/"/>
     <id>https://greenmeeple.github.io/AGV/agv10-4/</id>
     <published>2025-01-29T14:23:24.000Z</published>
-    <updated>2025-05-15T15:39:10.821Z</updated>
+    <updated>2025-05-15T15:42:48.663Z</updated>
     
     
-    <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../Notes/AGV/agv10-3/&quot;&gt;Closure Properties of Muller automata Under Boolean Operations&lt;/a&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../notes/AGV/agv10-3/&quot;&gt;Closure Properties of Muller automata Under Boolean Operations&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;This is a learning note of a course in &lt;a href=&quot;https://cispa.de/de&quot;&gt;CISPA&lt;/a&gt;, UdS. Taught by Bernd Finkbeiner&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -591,15 +591,15 @@
     <link href="https://greenmeeple.github.io/AGV/agv7-2-eg/"/>
     <id>https://greenmeeple.github.io/AGV/agv7-2-eg/</id>
     <published>2024-12-17T03:02:09.000Z</published>
-    <updated>2025-05-15T15:39:10.830Z</updated>
+    <updated>2025-05-15T15:42:48.687Z</updated>
     
     
     <summary type="html">&lt;p&gt;Previous Exercise: &lt;a href&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;This is a learning note of a course in &lt;a href=&quot;https://cispa.de/de&quot;&gt;CISPA&lt;/a&gt;, UdS. Taught by Bernd Finkbeiner&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;This is an example exercise to express LTL formula into Alternating Büchi Automata. For further definitions, you may check &lt;a href=&quot;../../../Notes/AGV/agv7-2/&quot;&gt;Section 7.2&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;Question&quot;&gt;&lt;a href=&quot;#Question&quot; class=&quot;headerlink&quot; title=&quot;Question&quot;&gt;&lt;/a&gt;Question&lt;/h2&gt;&lt;p&gt;Use the &lt;a href=&quot;../../../Notes/AGV/agv7-2/&quot;&gt;construction from the lecture&lt;/a&gt; to construct an alternating Büchi automaton $&#92;mathcal{A}$ such that $$&#92;mathcal{L(A)&amp;#x3D;L}((&#92;Diamond p)&#92; &#92;mathcal{U}&#92; (&#92;square q))$$&lt;/p&gt;
+&lt;p&gt;This is an example exercise to express LTL formula into Alternating Büchi Automata. For further definitions, you may check &lt;a href=&quot;../../../notes/AGV/agv7-2/&quot;&gt;Section 7.2&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;Question&quot;&gt;&lt;a href=&quot;#Question&quot; class=&quot;headerlink&quot; title=&quot;Question&quot;&gt;&lt;/a&gt;Question&lt;/h2&gt;&lt;p&gt;Use the &lt;a href=&quot;../../../notes/AGV/agv7-2/&quot;&gt;construction from the lecture&lt;/a&gt; to construct an alternating Büchi automaton $&#92;mathcal{A}$ such that $$&#92;mathcal{L(A)&amp;#x3D;L}((&#92;Diamond p)&#92; &#92;mathcal{U}&#92; (&#92;square q))$$&lt;/p&gt;
 &lt;h2 id=&quot;Solution&quot;&gt;&lt;a href=&quot;#Solution&quot; class=&quot;headerlink&quot; title=&quot;Solution&quot;&gt;&lt;/a&gt;Solution&lt;/h2&gt;&lt;p&gt;we build the following alternating Büchi automaton  $&#92;mathcal{A} &amp;#x3D; (2^{p,q},Q,&#92;varphi,&#92;delta,&#92;small&#92;text{BÜCHI} &#92;normalsize(F))$ which recognizes the models of $&#92;varphi&amp;#x3D;(&#92;Diamond p)&#92; &#92;mathcal{U}&#92; (&#92;square q)$. First we consider the transition function $&#92;delta$ for an arbitrary symbol $a&#92;in2^{p,q}:$&lt;/p&gt;
 &lt;p&gt;$&#92;begin{array}{lll}&lt;br&gt;&#92;hspace{1cm}&#92;bullet &amp;amp;&amp;amp;&#92;delta(&#92;square q,a)&#92;newline&lt;br&gt;&amp;amp;&amp;#x3D;&amp;amp;&#92;delta(&#92;neg(&#92;textit{true}&#92; &#92;mathcal{U}&#92; &#92;neg q) ,a)&#92;newline&lt;br&gt;&amp;amp;&amp;#x3D;&amp;amp;&#92;overline{&#92;delta(&#92;textit{true}&#92; &#92;mathcal{U}&#92; &#92;neg q ,a)}&#92;newline&lt;br&gt;&amp;amp;&amp;#x3D;&amp;amp;&#92;overline{&#92;delta(&#92;neg q,a)&#92;vee(&#92;delta(&#92;textit{true},a)&#92;wedge(&#92;textit{true}&#92; &#92;mathcal{U}&#92; &#92;neg q))}&#92;newline&lt;br&gt;&amp;amp;&amp;#x3D;&amp;amp;&#92;overline{&#92;delta(&#92;neg q,a)}&#92;wedge&#92;overline{(&#92;delta(&#92;textit{true},a)&#92;wedge (&#92;textit{true}&#92; &#92;mathcal{U}&#92; &#92;neg q))}&amp;amp;(&#92;textit{true}&#92;wedge &#92;psi&amp;#x3D;&#92;psi)&#92;newline&lt;br&gt;&amp;amp;&amp;#x3D;&amp;amp;&#92;overline{&#92;delta(&#92;neg q,a)}&#92;wedge&#92;overline{(&#92;textit{true}&#92; &#92;mathcal{U}&#92; &#92;neg q)}&amp;amp;(&#92;text{Using line 1})&#92;newline&lt;br&gt;&amp;amp;&amp;#x3D;&amp;amp;&#92;overline{&#92;delta(&#92;neg q,a)}&#92;wedge&#92;square q&#92;newline&lt;br&gt;&amp;amp;&amp;#x3D;&amp;amp;&#92;left&#92;lbrace &#92;begin{array}{lll}&lt;br&gt;&#92;square q&amp;amp;&#92;text{if }q&#92;in a&#92;newline&lt;br&gt;&#92;textit{false}&amp;amp;&#92;text{if }q&#92;notin a&#92;newline&lt;br&gt;&#92;end{array}&#92;right.&lt;br&gt;&#92;end{array}&lt;br&gt;&#92; &#92;newline &#92; &#92;newline&lt;br&gt;&#92;begin{array}{lll}&lt;br&gt;&#92;hspace{1cm}&#92;bullet &amp;amp;&amp;amp;&#92;delta(&#92;Diamond p,a)&#92;newline&lt;br&gt;&amp;amp;&amp;#x3D;&amp;amp;&#92;delta(&#92;textit{true}&#92; &#92;mathcal{U}&#92; p ,a)&#92;newline&lt;br&gt;&amp;amp;&amp;#x3D;&amp;amp;&#92;delta(p,a)&#92;vee(&#92;delta(&#92;textit{true},a)&#92;wedge&#92;Diamond p)&amp;amp;(&#92;textit{true}&#92;wedge &#92;psi&amp;#x3D;&#92;psi)&#92;newline&lt;br&gt;&amp;amp;&amp;#x3D;&amp;amp;&#92;delta(p,a)&#92;vee&#92;Diamond p&#92;newline&lt;br&gt;&amp;amp;&amp;#x3D;&amp;amp;&#92;left&#92;lbrace &#92;begin{array}{lll}&lt;br&gt;&#92;Diamond p&amp;amp;&#92;text{if }p&#92;notin a&#92;newline&lt;br&gt;&#92;textit{true}&amp;amp;&#92;text{if }p&#92;in a&#92;newline&lt;br&gt;&#92;end{array}&#92;right.&lt;br&gt;&#92;end{array}&lt;br&gt;$&lt;/p&gt;
 &lt;p&gt;By Substitution above result into $&#92;delta((&#92;Diamond p)&#92; &#92;mathcal{U}&#92; (&#92;square q),a)&amp;#x3D;&#92;delta(&#92;square q,a)&#92;vee(&#92;delta(&#92;Diamond p,a)&#92;wedge(&#92;Diamond p)&#92; &#92;mathcal{U}&#92; (&#92;square q))$, we have:&lt;/p&gt;
@@ -623,10 +623,10 @@
     <link href="https://greenmeeple.github.io/AGV/agv10-3/"/>
     <id>https://greenmeeple.github.io/AGV/agv10-3/</id>
     <published>2024-12-13T04:02:57.000Z</published>
-    <updated>2025-05-15T15:19:36.736Z</updated>
+    <updated>2025-05-15T15:42:48.678Z</updated>
     
     
-    <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../Notes/AGV/agv10-2/&quot;&gt;From Büchi automata to Muller automata&lt;/a&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../notes/AGV/agv10-2/&quot;&gt;From Büchi automata to Muller automata&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;This is a learning note of a course in &lt;a href=&quot;https://cispa.de/de&quot;&gt;CISPA&lt;/a&gt;, UdS. Taught by Bernd Finkbeiner&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -660,10 +660,10 @@
     <link href="https://greenmeeple.github.io/AGV/agv10-2/"/>
     <id>https://greenmeeple.github.io/AGV/agv10-2/</id>
     <published>2024-12-12T22:37:22.000Z</published>
-    <updated>2025-05-15T15:18:17.606Z</updated>
+    <updated>2025-05-15T15:42:48.704Z</updated>
     
     
-    <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../Notes/AGV/agv10-1/&quot;&gt;The Muller Acceptance Condition&lt;/a&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../notes/AGV/agv10-1/&quot;&gt;The Muller Acceptance Condition&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;This is a learning note of a course in &lt;a href=&quot;https://cispa.de/de&quot;&gt;CISPA&lt;/a&gt;, UdS. Taught by Bernd Finkbeiner&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -697,23 +697,23 @@
     <link href="https://greenmeeple.github.io/AGV/agv10-1/"/>
     <id>https://greenmeeple.github.io/AGV/agv10-1/</id>
     <published>2024-12-11T16:04:07.000Z</published>
-    <updated>2025-05-15T15:39:10.833Z</updated>
+    <updated>2025-05-15T15:42:48.677Z</updated>
     
     
-    <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../Notes/AGV/agv9-3/&quot;&gt;The Emerson-Lei algorithm&lt;/a&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../notes/AGV/agv9-3/&quot;&gt;The Emerson-Lei algorithm&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;This is a learning note of a course in &lt;a href=&quot;https://cispa.de/de&quot;&gt;CISPA&lt;/a&gt;, UdS. Taught by Bernd Finkbeiner&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id=&quot;Introdcution&quot;&gt;&lt;a href=&quot;#Introdcution&quot; class=&quot;headerlink&quot; title=&quot;Introdcution&quot;&gt;&lt;/a&gt;Introdcution&lt;/h2&gt;&lt;p&gt;We already established that while the languages that can be recognized with nondeterministic Büchi automata are exactly the $&#92;omega$-regular languages, the languages that can be recognized with deterministic Büchi automata are a strictly smaller set.&lt;/p&gt;
 &lt;p&gt;We now repair this deficiency with a more expressive acceptance condition, the &lt;strong&gt;Muller condition&lt;/strong&gt;. &lt;strong&gt;McNaughton’s theorem&lt;/strong&gt; states that the set of languages recognizable by deterministic Muller automata are again exactly the $&#92;omega$-regular languages.&lt;/p&gt;
 &lt;p&gt;We will see later that it is very useful to have a deterministic automaton for a given $&#92;omega$-language, for example in synthesis, where we construct the game between the system and the environment from a deterministic automaton that recognizes the winning plays for the system player.&lt;/p&gt;
-&lt;p&gt;Since the complementation of &lt;strong&gt;deterministic Muller automata&lt;/strong&gt; is a very simple operation, McNaughton’s theorem also provides an alternative proof for the result of &lt;a href=&quot;../../../Notes/AGV/agv5-3/&quot;&gt;Section 5&lt;/a&gt; that the $&#92;omega$-regular languages are closed under complementation.&lt;/p&gt;
+&lt;p&gt;Since the complementation of &lt;strong&gt;deterministic Muller automata&lt;/strong&gt; is a very simple operation, McNaughton’s theorem also provides an alternative proof for the result of &lt;a href=&quot;../../../notes/AGV/agv5-3/&quot;&gt;Section 5&lt;/a&gt; that the $&#92;omega$-regular languages are closed under complementation.&lt;/p&gt;
 &lt;h2 id=&quot;Muller-Acceptance-Condition&quot;&gt;&lt;a href=&quot;#Muller-Acceptance-Condition&quot; class=&quot;headerlink&quot; title=&quot;Muller Acceptance Condition&quot;&gt;&lt;/a&gt;Muller Acceptance Condition&lt;/h2&gt;&lt;blockquote&gt;
 &lt;p&gt;$&#92;textbf{Definition 10.1. } &#92;text{The }&#92;textit{Muller Acceptance Condition }&#92;small&#92;text{MULLER} &#92;normalsize(&#92;mathcal{F})&#92;text{ on a set of sets of states }$ $&#92;mathcal{F}&#92;subseteq 2^Q&#92;text{ is the set}$&lt;/p&gt;
 &lt;p&gt;$$&#92;small&#92;text{MULLER}&#92;normalsize(&#92;mathcal{F})&amp;#x3D;&#92;lbrace&#92;alpha&#92;in Q^&#92;omega&#92;mid&#92;text{Inf}(&#92;alpha)&#92;in&#92;mathcal{F}&#92;rbrace$$&lt;/p&gt;
 &lt;p&gt;$&#92;text{An automaton }&#92;mathcal{A} &amp;#x3D; (&#92;Sigma,Q,I,T,Acc) &#92;text{ with }Acc &amp;#x3D; &#92;small&#92;text{MULLER} &#92;normalsize(&#92;mathcal{F})&#92;text{ is called a }&#92;textit{Muller Automaton.}$ $&#92;text{The set }&#92;mathcal{F}&#92;text{ is called the set of }&#92;textit{accepting subsets }(&#92;text{or the }&#92;textit{table})&#92;text{ of }&#92;mathcal{A}.$&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Let’s do a small recap from &lt;a href=&quot;../../../Notes/AGV/agv2-3/&quot;&gt;section 2.3&lt;/a&gt;:&lt;/p&gt;</summary>
+&lt;p&gt;Let’s do a small recap from &lt;a href=&quot;../../../notes/AGV/agv2-3/&quot;&gt;section 2.3&lt;/a&gt;:&lt;/p&gt;</summary>
     
     
     
@@ -733,14 +733,14 @@
     <link href="https://greenmeeple.github.io/AGV/agv9-3/"/>
     <id>https://greenmeeple.github.io/AGV/agv9-3/</id>
     <published>2024-12-10T02:56:12.000Z</published>
-    <updated>2025-05-15T15:39:10.828Z</updated>
+    <updated>2025-05-15T15:42:48.693Z</updated>
     
     
-    <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../Notes/AGV/agv9-2/&quot;&gt;Nested depth-first search&lt;/a&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../notes/AGV/agv9-2/&quot;&gt;Nested depth-first search&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;This is a learning note of a course in &lt;a href=&quot;https://cispa.de/de&quot;&gt;CISPA&lt;/a&gt;, UdS. Taught by Bernd Finkbeiner&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h2 id=&quot;Introduction&quot;&gt;&lt;a href=&quot;#Introduction&quot; class=&quot;headerlink&quot; title=&quot;Introduction&quot;&gt;&lt;/a&gt;Introduction&lt;/h2&gt;&lt;p&gt;As an alternative algorithm for checking language emptiness of Büchi automata we now discuss a classic algorithm due to Emerson and Lei. Unlike the &lt;a href=&quot;../../../Notes/AGV/agv9-2/&quot;&gt;depth-first search&lt;/a&gt; of the previous subsection, the &lt;strong&gt;Emerson-Lei algorithm&lt;/strong&gt; is based on a &lt;strong&gt;breadth-first search&lt;/strong&gt; implemented as a fixpoint construction over sets of states.&lt;/p&gt;
+&lt;h2 id=&quot;Introduction&quot;&gt;&lt;a href=&quot;#Introduction&quot; class=&quot;headerlink&quot; title=&quot;Introduction&quot;&gt;&lt;/a&gt;Introduction&lt;/h2&gt;&lt;p&gt;As an alternative algorithm for checking language emptiness of Büchi automata we now discuss a classic algorithm due to Emerson and Lei. Unlike the &lt;a href=&quot;../../../notes/AGV/agv9-2/&quot;&gt;depth-first search&lt;/a&gt; of the previous subsection, the &lt;strong&gt;Emerson-Lei algorithm&lt;/strong&gt; is based on a &lt;strong&gt;breadth-first search&lt;/strong&gt; implemented as a fixpoint construction over sets of states.&lt;/p&gt;
 &lt;p&gt;A disadvantage of this algorithm is that its running time is &lt;em&gt;quadratic&lt;/em&gt;. Nevertheless, algorithms of this type play a major role in &lt;em&gt;symbolic model checking&lt;/em&gt;, because the sets of states can often be represented efficiently&lt;br&gt;using data structures like &lt;em&gt;binary decision diagrams&lt;/em&gt;.&lt;/p&gt;
 &lt;h3 id=&quot;Live-states&quot;&gt;&lt;a href=&quot;#Live-states&quot; class=&quot;headerlink&quot; title=&quot;Live states&quot;&gt;&lt;/a&gt;Live states&lt;/h3&gt;&lt;p&gt;A state $q$ of a Büchi automaton is &lt;code&gt;live&lt;/code&gt; if some infinite path starting in $q$ visits accepting states infinitely often. This definition is the opposite of &lt;code&gt;safe&lt;/code&gt; states, where it never visits accepting states. The idea of the algorithm is to identify the set of &lt;code&gt;live&lt;/code&gt; states.  The language of a Büchi automaton is &lt;strong&gt;non-empty&lt;/strong&gt; iff it has a &lt;strong&gt;live initial state&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;The &lt;strong&gt;Emerson-Lei algorithm&lt;/strong&gt; is based on the following inductive definition:&lt;/p&gt;
@@ -768,10 +768,10 @@
     <link href="https://greenmeeple.github.io/AGV/agv9-2/"/>
     <id>https://greenmeeple.github.io/AGV/agv9-2/</id>
     <published>2024-12-09T15:52:17.000Z</published>
-    <updated>2025-05-15T15:39:10.828Z</updated>
+    <updated>2025-05-15T15:42:48.690Z</updated>
     
     
-    <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../Notes/AGV/agv9-1/&quot;&gt;Automata-based LTL Model Checking with Sequential Circuits&lt;/a&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../notes/AGV/agv9-1/&quot;&gt;Automata-based LTL Model Checking with Sequential Circuits&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;This is a learning note of a course in &lt;a href=&quot;https://cispa.de/de&quot;&gt;CISPA&lt;/a&gt;, UdS. Taught by Bernd Finkbeiner&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -783,7 +783,7 @@
 &lt;li&gt;$q$ can again be reached from $q$ (discovered by 2nd DFS),&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&quot;Example-Simple-DFS&quot;&gt;&lt;a href=&quot;#Example-Simple-DFS&quot; class=&quot;headerlink&quot; title=&quot;Example (Simple DFS)&quot;&gt;&lt;/a&gt;Example (Simple DFS)&lt;/h2&gt;&lt;p&gt;Consider the following Büchi automaton (edge labels do not matter and are omitted).&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/notes/../../../Notes/images/uds_notes/agv/9_2_dfs.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/notes/../../../notes/images/uds_notes/agv/9_2_dfs.png&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;Step 1&lt;/code&gt;: discovers $q_0$, $q_1$, and $q_3$.&lt;br&gt;&lt;code&gt;Step 2&lt;/code&gt;: searches from $q_0$ and $q_3$: not successful; searches from $q_1$: discovers the path back to $q_1$ via $q_2$.&lt;/p&gt;</summary>
     
     
@@ -804,16 +804,16 @@
     <link href="https://greenmeeple.github.io/AGV/agv9-1/"/>
     <id>https://greenmeeple.github.io/AGV/agv9-1/</id>
     <published>2024-12-08T15:44:01.000Z</published>
-    <updated>2025-05-15T15:39:10.829Z</updated>
+    <updated>2025-05-15T15:42:48.690Z</updated>
     
     
-    <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../Notes/AGV/agv8-5/&quot;&gt;From Linear Arithmetic to Automata&lt;/a&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../notes/AGV/agv8-5/&quot;&gt;From Linear Arithmetic to Automata&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;This is a learning note of a course in &lt;a href=&quot;https://cispa.de/de&quot;&gt;CISPA&lt;/a&gt;, UdS. Taught by Bernd Finkbeiner&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;/notes/../../../Notes/images/uds_notes/agv/9_1.png&quot;&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Right-hand-side-Hondeterministic-Buchi-automata&quot;&gt;&lt;a href=&quot;#Right-hand-side-Hondeterministic-Buchi-automata&quot; class=&quot;headerlink&quot; title=&quot;Right hand side: Hondeterministic Büchi automata&quot;&gt;&lt;/a&gt;Right hand side: Hondeterministic Büchi automata&lt;/h3&gt;&lt;p&gt;In order to find system executions that violate a given &lt;strong&gt;LTL formula (1)&lt;/strong&gt;, we &lt;strong&gt;negate the formula (2)&lt;/strong&gt; and build an automaton that is equivent to the negated formula. For this, we can use the translaton from LTL to &lt;strong&gt;alternating automata (3)&lt;/strong&gt; from &lt;a href=&quot;../../../Notes/AGV/agv7-2/&quot;&gt;Construction 7.1&lt;/a&gt; followed by the Miyano-Hayashi translation from alternating Büchi automata to &lt;strong&gt;nondeterministic Büchi automata (4)&lt;/strong&gt; from &lt;a href=&quot;../../../Notes/AGV/agv7-3/&quot;&gt;Construction 7.2&lt;/a&gt;.&lt;/p&gt;
-&lt;h3 id=&quot;Left-hand-side-Safety-Automaton&quot;&gt;&lt;a href=&quot;#Left-hand-side-Safety-Automaton&quot; class=&quot;headerlink&quot; title=&quot;Left hand side: Safety Automaton&quot;&gt;&lt;/a&gt;Left hand side: Safety Automaton&lt;/h3&gt;&lt;p&gt;We represent the &lt;strong&gt;system (1)&lt;/strong&gt; executions as a &lt;strong&gt;Safety Automaton (2)&lt;/strong&gt;, which is then intersected (using &lt;a href=&quot;../../../Notes/AGV/agv3-3/&quot;&gt;Construction 3.2&lt;/a&gt; with the Büchi automaton for the negated LTL formula. The actual search for a violating execution then happens as the emptiness check of the resulting Büchi automaton. In the remainder of this section, we first quickly discuss the representation of the system as a &lt;strong&gt;Safety Automaton&lt;/strong&gt;, using &lt;strong&gt;sequential circuits&lt;/strong&gt; as an example, and then focus on the emptiness check of Büchi automata.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/notes/../../../notes/images/uds_notes/agv/9_1.png&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Right-hand-side-Hondeterministic-Buchi-automata&quot;&gt;&lt;a href=&quot;#Right-hand-side-Hondeterministic-Buchi-automata&quot; class=&quot;headerlink&quot; title=&quot;Right hand side: Hondeterministic Büchi automata&quot;&gt;&lt;/a&gt;Right hand side: Hondeterministic Büchi automata&lt;/h3&gt;&lt;p&gt;In order to find system executions that violate a given &lt;strong&gt;LTL formula (1)&lt;/strong&gt;, we &lt;strong&gt;negate the formula (2)&lt;/strong&gt; and build an automaton that is equivent to the negated formula. For this, we can use the translaton from LTL to &lt;strong&gt;alternating automata (3)&lt;/strong&gt; from &lt;a href=&quot;../../../notes/AGV/agv7-2/&quot;&gt;Construction 7.1&lt;/a&gt; followed by the Miyano-Hayashi translation from alternating Büchi automata to &lt;strong&gt;nondeterministic Büchi automata (4)&lt;/strong&gt; from &lt;a href=&quot;../../../notes/AGV/agv7-3/&quot;&gt;Construction 7.2&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&quot;Left-hand-side-Safety-Automaton&quot;&gt;&lt;a href=&quot;#Left-hand-side-Safety-Automaton&quot; class=&quot;headerlink&quot; title=&quot;Left hand side: Safety Automaton&quot;&gt;&lt;/a&gt;Left hand side: Safety Automaton&lt;/h3&gt;&lt;p&gt;We represent the &lt;strong&gt;system (1)&lt;/strong&gt; executions as a &lt;strong&gt;Safety Automaton (2)&lt;/strong&gt;, which is then intersected (using &lt;a href=&quot;../../../notes/AGV/agv3-3/&quot;&gt;Construction 3.2&lt;/a&gt; with the Büchi automaton for the negated LTL formula. The actual search for a violating execution then happens as the emptiness check of the resulting Büchi automaton. In the remainder of this section, we first quickly discuss the representation of the system as a &lt;strong&gt;Safety Automaton&lt;/strong&gt;, using &lt;strong&gt;sequential circuits&lt;/strong&gt; as an example, and then focus on the emptiness check of Büchi automata.&lt;/p&gt;
 &lt;h2 id=&quot;Model-Checking-Sequential-Circuits&quot;&gt;&lt;a href=&quot;#Model-Checking-Sequential-Circuits&quot; class=&quot;headerlink&quot; title=&quot;Model Checking Sequential Circuits&quot;&gt;&lt;/a&gt;Model Checking Sequential Circuits&lt;/h2&gt;&lt;p&gt;As an illustration of how automata can be used to represent system behaviors, we consider the representation of sequential circuits to safety automata. For a more general discussion of how to represent different types of systems, such as protocols or software, we refer the reader to textbooks on model checking, such as &lt;a href=&quot;https://is.ifmo.ru/books/_principles_of_model_checking.pdf&quot;&gt;Principles of Model Checking&lt;/a&gt; by Baier and Katoen.&lt;/p&gt;
 &lt;h3 id=&quot;Sequential-Circuits&quot;&gt;&lt;a href=&quot;#Sequential-Circuits&quot; class=&quot;headerlink&quot; title=&quot;Sequential Circuits&quot;&gt;&lt;/a&gt;Sequential Circuits&lt;/h3&gt;</summary>
     
