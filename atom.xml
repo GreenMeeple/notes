@@ -204,7 +204,7 @@
     <link href="https://greenmeeple.github.io/AGV/agv12-1/"/>
     <id>https://greenmeeple.github.io/AGV/agv12-1/</id>
     <published>2025-02-15T23:21:11.000Z</published>
-    <updated>2025-05-15T15:32:36.023Z</updated>
+    <updated>2025-05-15T15:39:10.826Z</updated>
     
     
     <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../Notes/AGV/agv11-6/&quot;&gt;A Remark on Undetermined Games&lt;/a&gt;&lt;/p&gt;
@@ -275,7 +275,7 @@
     <link href="https://greenmeeple.github.io/AGV/agv11-5/"/>
     <id>https://greenmeeple.github.io/AGV/agv11-5/</id>
     <published>2025-02-13T17:01:42.000Z</published>
-    <updated>2025-05-15T15:31:18.654Z</updated>
+    <updated>2025-05-15T15:39:10.825Z</updated>
     
     
     <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../Notes/AGV/agv11-4/&quot;&gt;Parity Games&lt;/a&gt;&lt;/p&gt;
@@ -283,7 +283,7 @@
 &lt;p&gt;This is a learning note of a course in &lt;a href=&quot;https://cispa.de/de&quot;&gt;CISPA&lt;/a&gt;, UdS. Taught by Bernd Finkbeiner&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Muller games differ from the games we have studied so far in that they are not memoryless determined. Consider, for example, a game arena consisting of three positions $v_0,v_1,v_2$, such that there are edges from $v_0$ and $v_2$ to $v_1$ and from $v_1$ to $v_0$ and $v_2$. Hence, the only choice in the game is in $v_1$, where Player 0 gets to choose between moving to $v_0$ or $v_2$:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/notes/images/notes/uds/agv/11_5_muller.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/notes/../../../Notes/images/uds_notes/agv/11_5_muller.png&quot;&gt;&lt;/p&gt;
 &lt;p&gt;The Muller condition $&#92;mathcal{F}&amp;#x3D;&#92;lbrace&#92;lbrace v_0,v_1,v_2&#92;rbrace&#92;rbrace$ is only satisfied if all three positions are visited infinitely often. Player 0 can therefore not win the game with a memoryless strategy, because such a strategy would either visit $v_0$ and $v_1$ infinitely often, or $v_1$ and $v_2$, but not all three positions.  &lt;/p&gt;
 &lt;p&gt;There is, however, a memoryful winning strategy: simply alternate between moving from $v_1$ to $v_0$ and to $v_2$.&lt;/p&gt;
 &lt;p&gt;In the following, we solve Muller games via a reduction to parity games, i.e., we define a parity game such that we can translate the winning strategy in the parity game into a winning strategy in the Muller game.&lt;/p&gt;
@@ -310,7 +310,7 @@
     <link href="https://greenmeeple.github.io/AGV/agv11-4/"/>
     <id>https://greenmeeple.github.io/AGV/agv11-4/</id>
     <published>2025-02-13T09:24:29.000Z</published>
-    <updated>2025-05-15T15:29:51.559Z</updated>
+    <updated>2025-05-15T15:39:10.825Z</updated>
     
     
     <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../Notes/AGV/agv11-3/&quot;&gt;Büchi Games&lt;/a&gt;&lt;/p&gt;
@@ -323,7 +323,7 @@
 &lt;p&gt;$&#92;textbf{Definition 11.10. }&#92;text{The }&#92;textit{parity condition }&#92;small&#92;text{PARITY} &#92;normalsize(C)&#92;text{ for a coloring function }c:V&#92;rightarrow&#92;mathbb{N}&#92;text{ is the set}$&lt;br&gt;$$&#92;small&#92;text{PARITY} &#92;normalsize(C)&amp;#x3D;&#92;lbrace&#92;alpha&#92;in V^&#92;omega&#92;mid&#92;text{max}&#92;lbrace c(q)&#92;mid q&#92;in&#92;text{Inf}(&#92;alpha)&#92;rbrace&#92;text{is even}&#92;rbrace.$$&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;The parity condition is satisfied if the biggest number $q$ of the coloring function is even, among all positions that are visited infinitely often.&lt;/p&gt;
-&lt;h3 id=&quot;Example&quot;&gt;&lt;a href=&quot;#Example&quot; class=&quot;headerlink&quot; title=&quot;Example&quot;&gt;&lt;/a&gt;Example&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;/notes/images/notes/uds/agv/11_4_parity.png&quot;&gt;&lt;/p&gt;</summary>
+&lt;h3 id=&quot;Example&quot;&gt;&lt;a href=&quot;#Example&quot; class=&quot;headerlink&quot; title=&quot;Example&quot;&gt;&lt;/a&gt;Example&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;/notes/../../../Notes/images/uds_notes/agv/11_4_parity.png&quot;&gt;&lt;/p&gt;</summary>
     
     
     
@@ -343,7 +343,7 @@
     <link href="https://greenmeeple.github.io/AGV/agv11-3/"/>
     <id>https://greenmeeple.github.io/AGV/agv11-3/</id>
     <published>2025-02-12T23:27:50.000Z</published>
-    <updated>2025-05-15T15:25:20.196Z</updated>
+    <updated>2025-05-15T15:39:10.833Z</updated>
     
     
     <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../Notes/AGV/agv11-2/&quot;&gt;Reachability Games&lt;/a&gt;&lt;/p&gt;
@@ -378,7 +378,7 @@
     <link href="https://greenmeeple.github.io/AGV/agv11-2/"/>
     <id>https://greenmeeple.github.io/AGV/agv11-2/</id>
     <published>2025-02-11T19:48:34.000Z</published>
-    <updated>2025-05-15T15:24:25.762Z</updated>
+    <updated>2025-05-15T15:39:10.833Z</updated>
     
     
     <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../Notes/AGV/agv11-1/&quot;&gt;Infinite Games (Basic Definitions)&lt;/a&gt;&lt;/p&gt;
@@ -392,7 +392,7 @@
 &lt;p&gt;$$ &#92;small&#92;text{REACH} &#92;normalsize(R) &amp;#x3D; &#92;lbrace&#92;rho&#92;in V^&#92;omega&#92;mid&#92;text{Occ}(&#92;rho)&#92;cap R&#92;neq&#92;varnothing&#92;rbrace$$&lt;br&gt;$$&#92;text{A game }&#92;mathcal{G}&amp;#x3D;(&#92;mathcal{A},&#92;text{Win})&#92;text{ with Win}&amp;#x3D;&#92;small&#92;text{REACH} &#92;normalsize(R)&#92;text{ is called a }&#92;textit{reachability game}&#92;text{ with reachability set }R $$&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h3 id=&quot;Example&quot;&gt;&lt;a href=&quot;#Example&quot; class=&quot;headerlink&quot; title=&quot;Example&quot;&gt;&lt;/a&gt;Example&lt;/h3&gt;&lt;p&gt;$$&lt;br&gt;&#92;text{Position of Player 0: Circles;}&#92; &#92; &#92;text{Positions of Player 1: rectangles.}$$ &lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/notes/images/notes/uds/agv/11_2_reachability.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/notes/../../../Notes/images/uds_notes/agv/11_2_reachability.png&quot;&gt;&lt;/p&gt;
 &lt;p&gt;$$&#92;mathcal{G}&amp;#x3D;(&#92;mathcal{A},&#92;small&#92;text{REACH} &#92;normalsize(R)),&#92; R&amp;#x3D;&#92;lbrace v_4,v_5&#92;rbrace&lt;br&gt;$$&lt;/p&gt;</summary>
     
     
@@ -485,7 +485,7 @@
     <link href="https://greenmeeple.github.io/AGV/agv10-4/"/>
     <id>https://greenmeeple.github.io/AGV/agv10-4/</id>
     <published>2025-01-29T14:23:24.000Z</published>
-    <updated>2025-05-15T15:20:03.356Z</updated>
+    <updated>2025-05-15T15:39:10.821Z</updated>
     
     
     <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../Notes/AGV/agv10-3/&quot;&gt;Closure Properties of Muller automata Under Boolean Operations&lt;/a&gt;&lt;/p&gt;
@@ -591,7 +591,7 @@
     <link href="https://greenmeeple.github.io/AGV/agv7-2-eg/"/>
     <id>https://greenmeeple.github.io/AGV/agv7-2-eg/</id>
     <published>2024-12-17T03:02:09.000Z</published>
-    <updated>2025-05-15T00:02:16.853Z</updated>
+    <updated>2025-05-15T15:39:10.830Z</updated>
     
     
     <summary type="html">&lt;p&gt;Previous Exercise: &lt;a href&gt;&lt;/a&gt;&lt;/p&gt;
@@ -697,7 +697,7 @@
     <link href="https://greenmeeple.github.io/AGV/agv10-1/"/>
     <id>https://greenmeeple.github.io/AGV/agv10-1/</id>
     <published>2024-12-11T16:04:07.000Z</published>
-    <updated>2025-05-15T15:17:41.312Z</updated>
+    <updated>2025-05-15T15:39:10.833Z</updated>
     
     
     <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../Notes/AGV/agv9-3/&quot;&gt;The Emerson-Lei algorithm&lt;/a&gt;&lt;/p&gt;
@@ -733,7 +733,7 @@
     <link href="https://greenmeeple.github.io/AGV/agv9-3/"/>
     <id>https://greenmeeple.github.io/AGV/agv9-3/</id>
     <published>2024-12-10T02:56:12.000Z</published>
-    <updated>2025-05-15T15:17:24.158Z</updated>
+    <updated>2025-05-15T15:39:10.828Z</updated>
     
     
     <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../Notes/AGV/agv9-2/&quot;&gt;Nested depth-first search&lt;/a&gt;&lt;/p&gt;
@@ -768,7 +768,7 @@
     <link href="https://greenmeeple.github.io/AGV/agv9-2/"/>
     <id>https://greenmeeple.github.io/AGV/agv9-2/</id>
     <published>2024-12-09T15:52:17.000Z</published>
-    <updated>2025-05-15T15:19:34.876Z</updated>
+    <updated>2025-05-15T15:39:10.828Z</updated>
     
     
     <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../Notes/AGV/agv9-1/&quot;&gt;Automata-based LTL Model Checking with Sequential Circuits&lt;/a&gt;&lt;/p&gt;
@@ -783,7 +783,7 @@
 &lt;li&gt;$q$ can again be reached from $q$ (discovered by 2nd DFS),&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&quot;Example-Simple-DFS&quot;&gt;&lt;a href=&quot;#Example-Simple-DFS&quot; class=&quot;headerlink&quot; title=&quot;Example (Simple DFS)&quot;&gt;&lt;/a&gt;Example (Simple DFS)&lt;/h2&gt;&lt;p&gt;Consider the following Büchi automaton (edge labels do not matter and are omitted).&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/notes/images/notes/uds/agv/9_2_dfs.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/notes/../../../Notes/images/uds_notes/agv/9_2_dfs.png&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;Step 1&lt;/code&gt;: discovers $q_0$, $q_1$, and $q_3$.&lt;br&gt;&lt;code&gt;Step 2&lt;/code&gt;: searches from $q_0$ and $q_3$: not successful; searches from $q_1$: discovers the path back to $q_1$ via $q_2$.&lt;/p&gt;</summary>
     
     
@@ -804,14 +804,14 @@
     <link href="https://greenmeeple.github.io/AGV/agv9-1/"/>
     <id>https://greenmeeple.github.io/AGV/agv9-1/</id>
     <published>2024-12-08T15:44:01.000Z</published>
-    <updated>2025-05-15T00:02:16.849Z</updated>
+    <updated>2025-05-15T15:39:10.829Z</updated>
     
     
     <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../Notes/AGV/agv8-5/&quot;&gt;From Linear Arithmetic to Automata&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;This is a learning note of a course in &lt;a href=&quot;https://cispa.de/de&quot;&gt;CISPA&lt;/a&gt;, UdS. Taught by Bernd Finkbeiner&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;/notes/images/notes/uds/agv/9_1.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/notes/../../../Notes/images/uds_notes/agv/9_1.png&quot;&gt;&lt;/p&gt;
 &lt;h3 id=&quot;Right-hand-side-Hondeterministic-Buchi-automata&quot;&gt;&lt;a href=&quot;#Right-hand-side-Hondeterministic-Buchi-automata&quot; class=&quot;headerlink&quot; title=&quot;Right hand side: Hondeterministic Büchi automata&quot;&gt;&lt;/a&gt;Right hand side: Hondeterministic Büchi automata&lt;/h3&gt;&lt;p&gt;In order to find system executions that violate a given &lt;strong&gt;LTL formula (1)&lt;/strong&gt;, we &lt;strong&gt;negate the formula (2)&lt;/strong&gt; and build an automaton that is equivent to the negated formula. For this, we can use the translaton from LTL to &lt;strong&gt;alternating automata (3)&lt;/strong&gt; from &lt;a href=&quot;../../../Notes/AGV/agv7-2/&quot;&gt;Construction 7.1&lt;/a&gt; followed by the Miyano-Hayashi translation from alternating Büchi automata to &lt;strong&gt;nondeterministic Büchi automata (4)&lt;/strong&gt; from &lt;a href=&quot;../../../Notes/AGV/agv7-3/&quot;&gt;Construction 7.2&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&quot;Left-hand-side-Safety-Automaton&quot;&gt;&lt;a href=&quot;#Left-hand-side-Safety-Automaton&quot; class=&quot;headerlink&quot; title=&quot;Left hand side: Safety Automaton&quot;&gt;&lt;/a&gt;Left hand side: Safety Automaton&lt;/h3&gt;&lt;p&gt;We represent the &lt;strong&gt;system (1)&lt;/strong&gt; executions as a &lt;strong&gt;Safety Automaton (2)&lt;/strong&gt;, which is then intersected (using &lt;a href=&quot;../../../Notes/AGV/agv3-3/&quot;&gt;Construction 3.2&lt;/a&gt; with the Büchi automaton for the negated LTL formula. The actual search for a violating execution then happens as the emptiness check of the resulting Büchi automaton. In the remainder of this section, we first quickly discuss the representation of the system as a &lt;strong&gt;Safety Automaton&lt;/strong&gt;, using &lt;strong&gt;sequential circuits&lt;/strong&gt; as an example, and then focus on the emptiness check of Büchi automata.&lt;/p&gt;
 &lt;h2 id=&quot;Model-Checking-Sequential-Circuits&quot;&gt;&lt;a href=&quot;#Model-Checking-Sequential-Circuits&quot; class=&quot;headerlink&quot; title=&quot;Model Checking Sequential Circuits&quot;&gt;&lt;/a&gt;Model Checking Sequential Circuits&lt;/h2&gt;&lt;p&gt;As an illustration of how automata can be used to represent system behaviors, we consider the representation of sequential circuits to safety automata. For a more general discussion of how to represent different types of systems, such as protocols or software, we refer the reader to textbooks on model checking, such as &lt;a href=&quot;https://is.ifmo.ru/books/_principles_of_model_checking.pdf&quot;&gt;Principles of Model Checking&lt;/a&gt; by Baier and Katoen.&lt;/p&gt;
