@@ -6,7 +6,7 @@
   <link href="https://greenmeeple.github.io/atom.xml" rel="self"/>
   
   <link href="https://greenmeeple.github.io/"/>
-  <updated>2025-05-15T15:42:48.736Z</updated>
+  <updated>2025-05-16T15:56:37.022Z</updated>
   <id>https://greenmeeple.github.io/</id>
   
   <author>
@@ -15,6 +15,141 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Crpytography 2 -- Probability Theory</title>
+    <link href="https://greenmeeple.github.io/Cryptography/2/"/>
+    <id>https://greenmeeple.github.io/Cryptography/2/</id>
+    <published>2025-05-14T17:00:13.000Z</published>
+    <updated>2025-05-16T15:56:37.022Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../notes/Cryptography/1/&quot;&gt;Historical Ciphers &amp;amp; Cryptanalysis&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is a learning note of a course in &lt;a href=&quot;https://cispa.de/de&quot;&gt;CISPA&lt;/a&gt;, UdS. Taught by Nico Döttling&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This chapter is a basic probability concept recap and clarify the syntax when writing them, useful if your memory start fading. Remember,&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;$$&#92;textbf{Cryptography is impossible without randomness!}$$&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;Probability-Spaces&quot;&gt;&lt;a href=&quot;#Probability-Spaces&quot; class=&quot;headerlink&quot; title=&quot;Probability Spaces&quot;&gt;&lt;/a&gt;Probability Spaces&lt;/h2&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&quot;left&quot;&gt;Components&lt;/th&gt;
+&lt;th align=&quot;left&quot;&gt;Definition&lt;/th&gt;
+&lt;th align=&quot;left&quot;&gt;Remarks&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;$&#92;Omega$&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;Sample Space&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;A finite set&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;$&#92;omega&#92;in&#92;Omega$&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;Elementary Events &amp;#x2F; Outcomes&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;$Pr:&#92;omega&#92;rightarrow&#92;mathbb{R}$&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;Probability Function&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;$&#92;forall&#92;omega&#92;in&#92;Omega. 0&#92;leq Pr[&#92;omega]&#92;leq1, &#92;underset{&#92;omega&#92;in&#92;Omega}{&#92;sum}Pr[&#92;omega] &amp;#x3D; 1$&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;$E&#92;subseteq&#92;Omega$&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;Event&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;$&#92;Pr[E] &amp;#x3D; &#92;underset{&#92;omega&#92;in&#92;Omega}{&#92;sum}Pr[&#92;omega], &#92;text{ where } Pr[&#92;varepsilon] &amp;#x3D; 0$&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h3 id=&quot;Examples&quot;&gt;&lt;a href=&quot;#Examples&quot; class=&quot;headerlink&quot; title=&quot;Examples&quot;&gt;&lt;/a&gt;Examples&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Fair coin: $&#92;Omega &amp;#x3D; {0,1}, Pr[0]&amp;#x3D;Pr[1]&amp;#x3D;1&amp;#x2F;2$&lt;/li&gt;
+&lt;li&gt;Biased coin: $&#92;Omega &amp;#x3D; {0,1}, Pr[1]&amp;#x3D;p, Pr[0]&amp;#x3D;1-p$&lt;/li&gt;
+&lt;li&gt;Fair dice: $&#92;Omega &amp;#x3D; {1,2,3,4,5,6}, Pr[1]&amp;#x3D;Pr[2]&amp;#x3D;&#92;dots&amp;#x3D;Pr[6]&amp;#x3D;1&amp;#x2F;6$&lt;/li&gt;
+&lt;li&gt;Uniform Randomness: $&#92;Omega &amp;#x3D; {1.&#92;dots,N}, Pr[1]&amp;#x3D;Pr[2]&amp;#x3D;&#92;dots&amp;#x3D;Pr[N]&amp;#x3D;1&amp;#x2F;N$&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;Set-Operations-on-events&quot;&gt;&lt;a href=&quot;#Set-Operations-on-events&quot; class=&quot;headerlink&quot; title=&quot;Set Operations on events&quot;&gt;&lt;/a&gt;Set Operations on events&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&quot;left&quot;&gt;Operations&lt;/th&gt;
+&lt;th align=&quot;left&quot;&gt;Definition&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;$Pr[E_1&#92;cap E_2] :&amp;#x3D; Pr[E_1&#92;wedge E_2] :&amp;#x3D; Pr[E_1 &#92;textbf{ AND } E_2] :&amp;#x3D; Pr[E_1, E_2]$&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;Intersection, Logical ‘AND’&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;$Pr[E_1&#92;cup E_2] :&amp;#x3D; Pr[E_1&#92;vee E_2] :&amp;#x3D; Pr[E_1 &#92;textbf{ OR } E_2]$&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;Intersection, Logical ‘OR’&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;$Pr[&#92;overline{E}] :&amp;#x3D; Pr[&#92;neg E] :&amp;#x3D; Pr[&#92;textbf{NOT }E] &#92;text{ where }&#92;overline{E}&amp;#x3D;&#92;Omega&#92;setminus E$&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;Complement, Logical ‘Negation’&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;$A&#92;subseteq B$, $A&#92;Rightarrow B$&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;The event A implies the event B&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;</summary>
+    
+    
+    
+    <category term="UdS Notes" scheme="https://greenmeeple.github.io/categories/UdS-Notes/"/>
+    
+    <category term="Crpytography" scheme="https://greenmeeple.github.io/categories/UdS-Notes/Crpytography/"/>
+    
+    
+    <category term="UdS" scheme="https://greenmeeple.github.io/tags/UdS/"/>
+    
+    <category term="Crpytography" scheme="https://greenmeeple.github.io/tags/Crpytography/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Crpytography 1 -- Historical Ciphers &amp; Cryptanalysis</title>
+    <link href="https://greenmeeple.github.io/Cryptography/1/"/>
+    <id>https://greenmeeple.github.io/Cryptography/1/</id>
+    <published>2025-05-13T17:00:13.000Z</published>
+    <updated>2025-05-16T15:54:08.870Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;This is a learning note of a course in &lt;a href=&quot;https://cispa.de/de&quot;&gt;CISPA&lt;/a&gt;, UdS. Taught by Nico Döttling&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;Substitution-Ciphers-∼&quot;&gt;&lt;a href=&quot;#Substitution-Ciphers-∼&quot; class=&quot;headerlink&quot; title=&quot;Substitution Ciphers (∼?)&quot;&gt;&lt;/a&gt;Substitution Ciphers (∼?)&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;One of the oldest cipher in the world, used in the bible (Atbash)&lt;/li&gt;
+&lt;li&gt;Reorder the alphabet list to create a substitution list&lt;/li&gt;
+&lt;li&gt;Number of keys: $26!$&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;/notes/../../../notes/images/uds_notes/crypto/1_substitution_cipher.png&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Shift-Cipher&quot;&gt;&lt;a href=&quot;#Shift-Cipher&quot; class=&quot;headerlink&quot; title=&quot;Shift Cipher&quot;&gt;&lt;/a&gt;Shift Cipher&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Create the substitution list by shifting the alphabets&lt;ul&gt;
+&lt;li&gt;Each letter in the plaintext is replaced by a letter some &lt;strong&gt;fixed number (key)&lt;/strong&gt; of positions down the alphabet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Number of keys: $26$&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;Caesar-Cipher-∼70-BCE&quot;&gt;&lt;a href=&quot;#Caesar-Cipher-∼70-BCE&quot; class=&quot;headerlink&quot; title=&quot;Caesar Cipher (∼70 BCE)&quot;&gt;&lt;/a&gt;Caesar Cipher (∼70 BCE)&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;A speical form of shift cipher&lt;ul&gt;
+&lt;li&gt;shift left by exactly 3 &lt;strong&gt;(key &amp;#x3D; 3)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;/notes/../../../notes/images/uds_notes/crypto/1_shift_cipher.png&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;The-Vigenere-Cipher-∼1500&quot;&gt;&lt;a href=&quot;#The-Vigenere-Cipher-∼1500&quot; class=&quot;headerlink&quot; title=&quot;The Vigenère Cipher (∼1500)&quot;&gt;&lt;/a&gt;The Vigenère Cipher (∼1500)&lt;/h2&gt;</summary>
+    
+    
+    
+    <category term="UdS Notes" scheme="https://greenmeeple.github.io/categories/UdS-Notes/"/>
+    
+    <category term="Crpytography" scheme="https://greenmeeple.github.io/categories/UdS-Notes/Crpytography/"/>
+    
+    
+    <category term="UdS" scheme="https://greenmeeple.github.io/tags/UdS/"/>
+    
+    <category term="Crpytography" scheme="https://greenmeeple.github.io/tags/Crpytography/"/>
+    
+  </entry>
   
   <entry>
     <title>Automata, Games, and Verification (Portal)</title>
@@ -749,73 +884,6 @@
 &lt;p&gt;$&#92;begin{array}{l}&lt;br&gt;&#92;hspace{1cm}&#92;cdot&#92; &#92;text{every state is 0-live}&#92;newline&lt;br&gt;&#92;hspace{1cm}&#92;cdot&#92; &#92;text{a state q is (n + 1)-live if some path containing at least one transition leads from }q&#92;newline&#92;hspace{1.3cm}&#92;text{to an accepting n-live state}&#92;newline&lt;br&gt;&#92;end{array}$&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h3 id=&quot;Fixpoint&quot;&gt;&lt;a href=&quot;#Fixpoint&quot; class=&quot;headerlink&quot; title=&quot;Fixpoint&quot;&gt;&lt;/a&gt;Fixpoint&lt;/h3&gt;</summary>
-    
-    
-    
-    <category term="UdS Notes" scheme="https://greenmeeple.github.io/categories/UdS-Notes/"/>
-    
-    <category term="AGV" scheme="https://greenmeeple.github.io/categories/UdS-Notes/AGV/"/>
-    
-    
-    <category term="AGV" scheme="https://greenmeeple.github.io/tags/AGV/"/>
-    
-    <category term="UdS" scheme="https://greenmeeple.github.io/tags/UdS/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>AGV 9.2 -- Nested depth-first search</title>
-    <link href="https://greenmeeple.github.io/AGV/agv9-2/"/>
-    <id>https://greenmeeple.github.io/AGV/agv9-2/</id>
-    <published>2024-12-09T15:52:17.000Z</published>
-    <updated>2025-05-15T15:42:48.690Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../notes/AGV/agv9-1/&quot;&gt;Automata-based LTL Model Checking with Sequential Circuits&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;This is a learning note of a course in &lt;a href=&quot;https://cispa.de/de&quot;&gt;CISPA&lt;/a&gt;, UdS. Taught by Bernd Finkbeiner&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&quot;Introduction&quot;&gt;&lt;a href=&quot;#Introduction&quot; class=&quot;headerlink&quot; title=&quot;Introduction&quot;&gt;&lt;/a&gt;Introduction&lt;/h2&gt;&lt;p&gt;We now develop an algorithm for checking whether the language of a given Büchi automaton is &lt;code&gt;empty&lt;/code&gt;. A natural idea is to use &lt;strong&gt;depth-first search (DFS)&lt;/strong&gt; twice.&lt;/p&gt;
-&lt;p&gt;The language is non-empty $&#92;Leftrightarrow$ it is accepted by some words:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;there exists an accepting state $q$,&lt;/li&gt;
-&lt;li&gt;$q$ is reachable from some initial state (discovered by 1st DFS), and&lt;/li&gt;
-&lt;li&gt;$q$ can again be reached from $q$ (discovered by 2nd DFS),&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&quot;Example-Simple-DFS&quot;&gt;&lt;a href=&quot;#Example-Simple-DFS&quot; class=&quot;headerlink&quot; title=&quot;Example (Simple DFS)&quot;&gt;&lt;/a&gt;Example (Simple DFS)&lt;/h2&gt;&lt;p&gt;Consider the following Büchi automaton (edge labels do not matter and are omitted).&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/notes/../../../notes/images/uds_notes/agv/9_2_dfs.png&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;Step 1&lt;/code&gt;: discovers $q_0$, $q_1$, and $q_3$.&lt;br&gt;&lt;code&gt;Step 2&lt;/code&gt;: searches from $q_0$ and $q_3$: not successful; searches from $q_1$: discovers the path back to $q_1$ via $q_2$.&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="UdS Notes" scheme="https://greenmeeple.github.io/categories/UdS-Notes/"/>
-    
-    <category term="AGV" scheme="https://greenmeeple.github.io/categories/UdS-Notes/AGV/"/>
-    
-    
-    <category term="AGV" scheme="https://greenmeeple.github.io/tags/AGV/"/>
-    
-    <category term="UdS" scheme="https://greenmeeple.github.io/tags/UdS/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>AGV 9.1 -- Automata-based LTL Model Checking with Sequential Circuits</title>
-    <link href="https://greenmeeple.github.io/AGV/agv9-1/"/>
-    <id>https://greenmeeple.github.io/AGV/agv9-1/</id>
-    <published>2024-12-08T15:44:01.000Z</published>
-    <updated>2025-05-15T15:42:48.690Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;Previous chapter: &lt;a href=&quot;../../../notes/AGV/agv8-5/&quot;&gt;From Linear Arithmetic to Automata&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;This is a learning note of a course in &lt;a href=&quot;https://cispa.de/de&quot;&gt;CISPA&lt;/a&gt;, UdS. Taught by Bernd Finkbeiner&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;/notes/../../../notes/images/uds_notes/agv/9_1.png&quot;&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Right-hand-side-Hondeterministic-Buchi-automata&quot;&gt;&lt;a href=&quot;#Right-hand-side-Hondeterministic-Buchi-automata&quot; class=&quot;headerlink&quot; title=&quot;Right hand side: Hondeterministic Büchi automata&quot;&gt;&lt;/a&gt;Right hand side: Hondeterministic Büchi automata&lt;/h3&gt;&lt;p&gt;In order to find system executions that violate a given &lt;strong&gt;LTL formula (1)&lt;/strong&gt;, we &lt;strong&gt;negate the formula (2)&lt;/strong&gt; and build an automaton that is equivent to the negated formula. For this, we can use the translaton from LTL to &lt;strong&gt;alternating automata (3)&lt;/strong&gt; from &lt;a href=&quot;../../../notes/AGV/agv7-2/&quot;&gt;Construction 7.1&lt;/a&gt; followed by the Miyano-Hayashi translation from alternating Büchi automata to &lt;strong&gt;nondeterministic Büchi automata (4)&lt;/strong&gt; from &lt;a href=&quot;../../../notes/AGV/agv7-3/&quot;&gt;Construction 7.2&lt;/a&gt;.&lt;/p&gt;
-&lt;h3 id=&quot;Left-hand-side-Safety-Automaton&quot;&gt;&lt;a href=&quot;#Left-hand-side-Safety-Automaton&quot; class=&quot;headerlink&quot; title=&quot;Left hand side: Safety Automaton&quot;&gt;&lt;/a&gt;Left hand side: Safety Automaton&lt;/h3&gt;&lt;p&gt;We represent the &lt;strong&gt;system (1)&lt;/strong&gt; executions as a &lt;strong&gt;Safety Automaton (2)&lt;/strong&gt;, which is then intersected (using &lt;a href=&quot;../../../notes/AGV/agv3-3/&quot;&gt;Construction 3.2&lt;/a&gt; with the Büchi automaton for the negated LTL formula. The actual search for a violating execution then happens as the emptiness check of the resulting Büchi automaton. In the remainder of this section, we first quickly discuss the representation of the system as a &lt;strong&gt;Safety Automaton&lt;/strong&gt;, using &lt;strong&gt;sequential circuits&lt;/strong&gt; as an example, and then focus on the emptiness check of Büchi automata.&lt;/p&gt;
-&lt;h2 id=&quot;Model-Checking-Sequential-Circuits&quot;&gt;&lt;a href=&quot;#Model-Checking-Sequential-Circuits&quot; class=&quot;headerlink&quot; title=&quot;Model Checking Sequential Circuits&quot;&gt;&lt;/a&gt;Model Checking Sequential Circuits&lt;/h2&gt;&lt;p&gt;As an illustration of how automata can be used to represent system behaviors, we consider the representation of sequential circuits to safety automata. For a more general discussion of how to represent different types of systems, such as protocols or software, we refer the reader to textbooks on model checking, such as &lt;a href=&quot;https://is.ifmo.ru/books/_principles_of_model_checking.pdf&quot;&gt;Principles of Model Checking&lt;/a&gt; by Baier and Katoen.&lt;/p&gt;
-&lt;h3 id=&quot;Sequential-Circuits&quot;&gt;&lt;a href=&quot;#Sequential-Circuits&quot; class=&quot;headerlink&quot; title=&quot;Sequential Circuits&quot;&gt;&lt;/a&gt;Sequential Circuits&lt;/h3&gt;</summary>
     
     
     
